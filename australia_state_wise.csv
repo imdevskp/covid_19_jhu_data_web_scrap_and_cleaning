@@ -1,0 +1,689 @@
+Province/State,Country/Region,Lat,Long,Date,Confirmed,Deaths,Recovered
+Australian Capital Territory,Australia,-35.4735,149.0124,1/22/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/22/20,0,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/22/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/22/20,0,0,0
+South Australia,Australia,-34.9285,138.6007,1/22/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/22/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/22/20,0,0,0
+Western Australia,Australia,-31.9505,115.8605,1/22/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/23/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/23/20,0,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/23/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/23/20,0,0,0
+South Australia,Australia,-34.9285,138.6007,1/23/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/23/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/23/20,0,0,0
+Western Australia,Australia,-31.9505,115.8605,1/23/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/24/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/24/20,0,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/24/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/24/20,0,0,0
+South Australia,Australia,-34.9285,138.6007,1/24/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/24/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/24/20,0,0,0
+Western Australia,Australia,-31.9505,115.8605,1/24/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/25/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/25/20,0,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/25/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/25/20,0,0,0
+South Australia,Australia,-34.9285,138.6007,1/25/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/25/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/25/20,0,0,0
+Western Australia,Australia,-31.9505,115.8605,1/25/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/26/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/26/20,3,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/26/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/26/20,0,0,0
+South Australia,Australia,-34.9285,138.6007,1/26/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/26/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/26/20,1,0,0
+Western Australia,Australia,-31.9505,115.8605,1/26/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/27/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/27/20,4,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/27/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/27/20,0,0,0
+South Australia,Australia,-34.9285,138.6007,1/27/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/27/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/27/20,1,0,0
+Western Australia,Australia,-31.9505,115.8605,1/27/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/28/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/28/20,4,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/28/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/28/20,0,0,0
+South Australia,Australia,-34.9285,138.6007,1/28/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/28/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/28/20,1,0,0
+Western Australia,Australia,-31.9505,115.8605,1/28/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/29/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/29/20,4,0,0
+Northern Territory,Australia,-12.4634,130.8456,1/29/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/29/20,1,0,0
+South Australia,Australia,-34.9285,138.6007,1/29/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/29/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/29/20,1,0,0
+Western Australia,Australia,-31.9505,115.8605,1/29/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/30/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/30/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,1/30/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/30/20,3,0,0
+South Australia,Australia,-34.9285,138.6007,1/30/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/30/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/30/20,2,0,0
+Western Australia,Australia,-31.9505,115.8605,1/30/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,1/31/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,1/31/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,1/31/20,0,0,0
+Queensland,Australia,-28.0167,153.4,1/31/20,2,0,0
+South Australia,Australia,-34.9285,138.6007,1/31/20,0,0,0
+Tasmania,Australia,-41.4545,145.9707,1/31/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,1/31/20,3,0,0
+Western Australia,Australia,-31.9505,115.8605,1/31/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/1/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/1/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/1/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/1/20,3,0,0
+South Australia,Australia,-34.9285,138.6007,2/1/20,1,0,0
+Tasmania,Australia,-41.4545,145.9707,2/1/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/1/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/1/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/2/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/2/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/2/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/2/20,2,0,0
+South Australia,Australia,-34.9285,138.6007,2/2/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/2/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/2/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/2/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/3/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/3/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/3/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/3/20,2,0,0
+South Australia,Australia,-34.9285,138.6007,2/3/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/3/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/3/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/3/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/4/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/4/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/4/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/4/20,3,0,0
+South Australia,Australia,-34.9285,138.6007,2/4/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/4/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/4/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/4/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/5/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/5/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/5/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/5/20,3,0,0
+South Australia,Australia,-34.9285,138.6007,2/5/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/5/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/5/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/5/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/6/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/6/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/6/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/6/20,4,0,0
+South Australia,Australia,-34.9285,138.6007,2/6/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/6/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/6/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/6/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/7/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/7/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/7/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/7/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/7/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/7/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/7/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/7/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/8/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/8/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/8/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/8/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/8/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/8/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/8/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/8/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/9/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/9/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/9/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/9/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/9/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/9/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/9/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/9/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/10/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/10/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/10/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/10/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/10/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/10/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/10/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/10/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/11/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/11/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/11/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/11/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/11/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/11/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/11/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/11/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/12/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/12/20,4,0,2
+Northern Territory,Australia,-12.4634,130.8456,2/12/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/12/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/12/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/12/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/12/20,4,0,0
+Western Australia,Australia,-31.9505,115.8605,2/12/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/13/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/13/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/13/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/13/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/13/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/13/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/13/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/13/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/14/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/14/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/14/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/14/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/14/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/14/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/14/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/14/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/15/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/15/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/15/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/15/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/15/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/15/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/15/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/15/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/16/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/16/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/16/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/16/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/16/20,2,0,0
+Tasmania,Australia,-41.4545,145.9707,2/16/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/16/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/16/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/17/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/17/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/17/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/17/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/17/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/17/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/17/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/17/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/18/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/18/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/18/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/18/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/18/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/18/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/18/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/18/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/19/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/19/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/19/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/19/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/19/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/19/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/19/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/19/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/20/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/20/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/20/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/20/20,5,0,0
+South Australia,Australia,-34.9285,138.6007,2/20/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/20/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/20/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/20/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/21/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/21/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/21/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/21/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/21/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/21/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/21/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/21/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/22/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/22/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/22/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/22/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/22/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/22/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/22/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/22/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/23/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/23/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/23/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/23/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/23/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/23/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/23/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/23/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/24/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/24/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/24/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/24/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/24/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/24/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/24/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/24/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/25/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/25/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/25/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/25/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/25/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/25/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/25/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/25/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/26/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/26/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/26/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/26/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/26/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/26/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/26/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/26/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/27/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/27/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/27/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/27/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/27/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/27/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/27/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/27/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/28/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/28/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/28/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/28/20,5,0,1
+South Australia,Australia,-34.9285,138.6007,2/28/20,2,0,2
+Tasmania,Australia,-41.4545,145.9707,2/28/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/28/20,4,0,4
+Western Australia,Australia,-31.9505,115.8605,2/28/20,0,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,2/29/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,2/29/20,4,0,4
+Northern Territory,Australia,-12.4634,130.8456,2/29/20,0,0,0
+Queensland,Australia,-28.0167,153.4,2/29/20,9,0,1
+South Australia,Australia,-34.9285,138.6007,2/29/20,3,0,2
+Tasmania,Australia,-41.4545,145.9707,2/29/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,2/29/20,7,0,4
+Western Australia,Australia,-31.9505,115.8605,2/29/20,2,0,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/1/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/1/20,6,0,4
+Northern Territory,Australia,-12.4634,130.8456,3/1/20,0,0,0
+Queensland,Australia,-28.0167,153.4,3/1/20,9,0,1
+South Australia,Australia,-34.9285,138.6007,3/1/20,3,0,2
+Tasmania,Australia,-41.4545,145.9707,3/1/20,0,0,0
+Victoria,Australia,-37.8136,144.9631,3/1/20,7,0,4
+Western Australia,Australia,-31.9505,115.8605,3/1/20,2,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/2/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/2/20,6,0,4
+Northern Territory,Australia,-12.4634,130.8456,3/2/20,0,0,0
+Queensland,Australia,-28.0167,153.4,3/2/20,9,0,1
+South Australia,Australia,-34.9285,138.6007,3/2/20,3,0,2
+Tasmania,Australia,-41.4545,145.9707,3/2/20,1,0,0
+Victoria,Australia,-37.8136,144.9631,3/2/20,9,0,4
+Western Australia,Australia,-31.9505,115.8605,3/2/20,2,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/3/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/3/20,13,0,4
+Northern Territory,Australia,-12.4634,130.8456,3/3/20,0,0,0
+Queensland,Australia,-28.0167,153.4,3/3/20,11,0,1
+South Australia,Australia,-34.9285,138.6007,3/3/20,3,0,2
+Tasmania,Australia,-41.4545,145.9707,3/3/20,1,0,0
+Victoria,Australia,-37.8136,144.9631,3/3/20,9,0,4
+Western Australia,Australia,-31.9505,115.8605,3/3/20,2,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/4/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/4/20,22,1,4
+Northern Territory,Australia,-12.4634,130.8456,3/4/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/4/20,11,0,1
+South Australia,Australia,-34.9285,138.6007,3/4/20,5,0,2
+Tasmania,Australia,-41.4545,145.9707,3/4/20,1,0,0
+Victoria,Australia,-37.8136,144.9631,3/4/20,10,0,4
+Western Australia,Australia,-31.9505,115.8605,3/4/20,2,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/5/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/5/20,22,1,4
+Northern Territory,Australia,-12.4634,130.8456,3/5/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/5/20,13,0,8
+South Australia,Australia,-34.9285,138.6007,3/5/20,5,0,2
+Tasmania,Australia,-41.4545,145.9707,3/5/20,1,0,0
+Victoria,Australia,-37.8136,144.9631,3/5/20,10,0,7
+Western Australia,Australia,-31.9505,115.8605,3/5/20,3,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/6/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/6/20,26,1,4
+Northern Territory,Australia,-12.4634,130.8456,3/6/20,0,0,0
+Queensland,Australia,-28.0167,153.4,3/6/20,13,0,8
+South Australia,Australia,-34.9285,138.6007,3/6/20,7,0,2
+Tasmania,Australia,-41.4545,145.9707,3/6/20,1,0,0
+Victoria,Australia,-37.8136,144.9631,3/6/20,10,0,7
+Western Australia,Australia,-31.9505,115.8605,3/6/20,3,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/7/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/7/20,28,1,4
+Northern Territory,Australia,-12.4634,130.8456,3/7/20,0,0,0
+Queensland,Australia,-28.0167,153.4,3/7/20,13,0,8
+South Australia,Australia,-34.9285,138.6007,3/7/20,7,0,2
+Tasmania,Australia,-41.4545,145.9707,3/7/20,1,0,0
+Victoria,Australia,-37.8136,144.9631,3/7/20,11,0,7
+Western Australia,Australia,-31.9505,115.8605,3/7/20,3,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/8/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/8/20,38,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/8/20,0,0,0
+Queensland,Australia,-28.0167,153.4,3/8/20,15,0,8
+South Australia,Australia,-34.9285,138.6007,3/8/20,7,0,2
+Tasmania,Australia,-41.4545,145.9707,3/8/20,2,0,0
+Victoria,Australia,-37.8136,144.9631,3/8/20,11,0,7
+Western Australia,Australia,-31.9505,115.8605,3/8/20,3,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/9/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/9/20,48,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/9/20,0,0,0
+Queensland,Australia,-28.0167,153.4,3/9/20,15,0,8
+South Australia,Australia,-34.9285,138.6007,3/9/20,7,0,2
+Tasmania,Australia,-41.4545,145.9707,3/9/20,2,0,0
+Victoria,Australia,-37.8136,144.9631,3/9/20,15,0,7
+Western Australia,Australia,-31.9505,115.8605,3/9/20,4,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/10/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/10/20,55,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/10/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/10/20,18,0,8
+South Australia,Australia,-34.9285,138.6007,3/10/20,7,0,2
+Tasmania,Australia,-41.4545,145.9707,3/10/20,2,0,0
+Victoria,Australia,-37.8136,144.9631,3/10/20,18,0,7
+Western Australia,Australia,-31.9505,115.8605,3/10/20,6,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/11/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/11/20,65,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/11/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/11/20,20,0,8
+South Australia,Australia,-34.9285,138.6007,3/11/20,9,0,2
+Tasmania,Australia,-41.4545,145.9707,3/11/20,3,0,0
+Victoria,Australia,-37.8136,144.9631,3/11/20,21,0,7
+Western Australia,Australia,-31.9505,115.8605,3/11/20,9,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/12/20,0,0,0
+New South Wales,Australia,-33.8688,151.2093,3/12/20,65,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/12/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/12/20,20,0,8
+South Australia,Australia,-34.9285,138.6007,3/12/20,9,0,2
+Tasmania,Australia,-41.4545,145.9707,3/12/20,3,0,0
+Victoria,Australia,-37.8136,144.9631,3/12/20,21,0,7
+Western Australia,Australia,-31.9505,115.8605,3/12/20,9,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/13/20,1,0,0
+New South Wales,Australia,-33.8688,151.2093,3/13/20,92,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/13/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/13/20,35,0,8
+South Australia,Australia,-34.9285,138.6007,3/13/20,16,0,3
+Tasmania,Australia,-41.4545,145.9707,3/13/20,5,0,0
+Victoria,Australia,-37.8136,144.9631,3/13/20,36,0,8
+Western Australia,Australia,-31.9505,115.8605,3/13/20,14,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/14/20,1,0,0
+New South Wales,Australia,-33.8688,151.2093,3/14/20,112,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/14/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/14/20,46,0,8
+South Australia,Australia,-34.9285,138.6007,3/14/20,19,0,3
+Tasmania,Australia,-41.4545,145.9707,3/14/20,5,0,0
+Victoria,Australia,-37.8136,144.9631,3/14/20,49,0,8
+Western Australia,Australia,-31.9505,115.8605,3/14/20,17,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/15/20,1,0,0
+New South Wales,Australia,-33.8688,151.2093,3/15/20,134,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/15/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/15/20,61,0,8
+South Australia,Australia,-34.9285,138.6007,3/15/20,20,0,3
+Tasmania,Australia,-41.4545,145.9707,3/15/20,6,0,0
+Victoria,Australia,-37.8136,144.9631,3/15/20,57,0,8
+Western Australia,Australia,-31.9505,115.8605,3/15/20,17,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/16/20,2,0,0
+New South Wales,Australia,-33.8688,151.2093,3/16/20,171,2,4
+Northern Territory,Australia,-12.4634,130.8456,3/16/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/16/20,68,0,8
+South Australia,Australia,-34.9285,138.6007,3/16/20,29,0,3
+Tasmania,Australia,-41.4545,145.9707,3/16/20,7,0,0
+Victoria,Australia,-37.8136,144.9631,3/16/20,71,0,8
+Western Australia,Australia,-31.9505,115.8605,3/16/20,28,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/17/20,2,0,0
+New South Wales,Australia,-33.8688,151.2093,3/17/20,210,4,4
+Northern Territory,Australia,-12.4634,130.8456,3/17/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/17/20,78,0,8
+South Australia,Australia,-34.9285,138.6007,3/17/20,29,0,3
+Tasmania,Australia,-41.4545,145.9707,3/17/20,7,0,0
+Victoria,Australia,-37.8136,144.9631,3/17/20,94,0,8
+Western Australia,Australia,-31.9505,115.8605,3/17/20,31,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/18/20,3,0,0
+New South Wales,Australia,-33.8688,151.2093,3/18/20,267,5,4
+Northern Territory,Australia,-12.4634,130.8456,3/18/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/18/20,94,0,8
+South Australia,Australia,-34.9285,138.6007,3/18/20,37,0,3
+Tasmania,Australia,-41.4545,145.9707,3/18/20,10,0,0
+Victoria,Australia,-37.8136,144.9631,3/18/20,121,0,8
+Western Australia,Australia,-31.9505,115.8605,3/18/20,35,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/19/20,4,0,0
+New South Wales,Australia,-33.8688,151.2093,3/19/20,307,5,4
+Northern Territory,Australia,-12.4634,130.8456,3/19/20,1,0,0
+Queensland,Australia,-28.0167,153.4,3/19/20,144,0,8
+South Australia,Australia,-34.9285,138.6007,3/19/20,42,0,3
+Tasmania,Australia,-41.4545,145.9707,3/19/20,10,0,3
+Victoria,Australia,-37.8136,144.9631,3/19/20,121,0,8
+Western Australia,Australia,-31.9505,115.8605,3/19/20,52,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/20/20,6,0,0
+New South Wales,Australia,-33.8688,151.2093,3/20/20,353,6,4
+Northern Territory,Australia,-12.4634,130.8456,3/20/20,3,0,0
+Queensland,Australia,-28.0167,153.4,3/20/20,184,0,8
+South Australia,Australia,-34.9285,138.6007,3/20/20,50,0,3
+Tasmania,Australia,-41.4545,145.9707,3/20/20,10,0,3
+Victoria,Australia,-37.8136,144.9631,3/20/20,121,0,8
+Western Australia,Australia,-31.9505,115.8605,3/20/20,64,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/21/20,9,0,0
+New South Wales,Australia,-33.8688,151.2093,3/21/20,436,6,4
+Northern Territory,Australia,-12.4634,130.8456,3/21/20,3,0,0
+Queensland,Australia,-28.0167,153.4,3/21/20,221,0,8
+South Australia,Australia,-34.9285,138.6007,3/21/20,67,0,3
+Tasmania,Australia,-41.4545,145.9707,3/21/20,16,0,3
+Victoria,Australia,-37.8136,144.9631,3/21/20,229,0,8
+Western Australia,Australia,-31.9505,115.8605,3/21/20,90,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/22/20,19,0,0
+New South Wales,Australia,-33.8688,151.2093,3/22/20,669,6,4
+Northern Territory,Australia,-12.4634,130.8456,3/22/20,5,0,0
+Queensland,Australia,-28.0167,153.4,3/22/20,259,0,8
+South Australia,Australia,-34.9285,138.6007,3/22/20,100,0,3
+Tasmania,Australia,-41.4545,145.9707,3/22/20,22,0,3
+Victoria,Australia,-37.8136,144.9631,3/22/20,355,0,70
+Western Australia,Australia,-31.9505,115.8605,3/22/20,120,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/23/20,32,0,0
+New South Wales,Australia,-33.8688,151.2093,3/23/20,669,6,4
+Northern Territory,Australia,-12.4634,130.8456,3/23/20,5,0,0
+Queensland,Australia,-28.0167,153.4,3/23/20,319,0,8
+South Australia,Australia,-34.9285,138.6007,3/23/20,134,0,3
+Tasmania,Australia,-41.4545,145.9707,3/23/20,28,0,3
+Victoria,Australia,-37.8136,144.9631,3/23/20,355,0,70
+Western Australia,Australia,-31.9505,115.8605,3/23/20,140,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/24/20,39,0,0
+New South Wales,Australia,-33.8688,151.2093,3/24/20,818,7,4
+Northern Territory,Australia,-12.4634,130.8456,3/24/20,6,0,0
+Queensland,Australia,-28.0167,153.4,3/24/20,397,0,8
+South Australia,Australia,-34.9285,138.6007,3/24/20,170,0,3
+Tasmania,Australia,-41.4545,145.9707,3/24/20,28,0,3
+Victoria,Australia,-37.8136,144.9631,3/24/20,411,0,97
+Western Australia,Australia,-31.9505,115.8605,3/24/20,175,1,0
+Australian Capital Territory,Australia,-35.4735,149.0124,3/25/20,39,0,0
+New South Wales,Australia,-33.8688,151.2093,3/25/20,1029,7,4
+Northern Territory,Australia,-12.4634,130.8456,3/25/20,6,0,0
+Queensland,Australia,-28.0167,153.4,3/25/20,443,0,8
+South Australia,Australia,-34.9285,138.6007,3/25/20,170,0,6
+Tasmania,Australia,-41.4545,145.9707,3/25/20,36,0,3
+Victoria,Australia,-37.8136,144.9631,3/25/20,466,0,97
+Western Australia,Australia,-31.9505,115.8605,3/25/20,175,1,1
+Australian Capital Territory,Australia,-35.4735,149.0124,3/26/20,53,0,1
+New South Wales,Australia,-33.8688,151.2093,3/26/20,1219,7,4
+Northern Territory,Australia,-12.4634,130.8456,3/26/20,12,0,0
+Queensland,Australia,-28.0167,153.4,3/26/20,493,1,8
+South Australia,Australia,-34.9285,138.6007,3/26/20,235,0,6
+Tasmania,Australia,-41.4545,145.9707,3/26/20,47,0,3
+Victoria,Australia,-37.8136,144.9631,3/26/20,520,3,149
+Western Australia,Australia,-31.9505,115.8605,3/26/20,231,2,1
+Australian Capital Territory,Australia,-35.4735,149.0124,3/27/20,62,0,1
+New South Wales,Australia,-33.8688,151.2093,3/27/20,1405,7,4
+Northern Territory,Australia,-12.4634,130.8456,3/27/20,12,0,0
+Queensland,Australia,-28.0167,153.4,3/27/20,555,1,8
+South Australia,Australia,-34.9285,138.6007,3/27/20,257,0,6
+Tasmania,Australia,-41.4545,145.9707,3/27/20,47,0,3
+Victoria,Australia,-37.8136,144.9631,3/27/20,574,3,171
+Western Australia,Australia,-31.9505,115.8605,3/27/20,231,2,1
+Australian Capital Territory,Australia,-35.4735,149.0124,3/28/20,71,0,2
+New South Wales,Australia,-33.8688,151.2093,3/28/20,1617,8,4
+Northern Territory,Australia,-12.4634,130.8456,3/28/20,15,0,0
+Queensland,Australia,-28.0167,153.4,3/28/20,625,1,8
+South Australia,Australia,-34.9285,138.6007,3/28/20,287,0,6
+Tasmania,Australia,-41.4545,145.9707,3/28/20,62,0,5
+Victoria,Australia,-37.8136,144.9631,3/28/20,685,3,191
+Western Australia,Australia,-31.9505,115.8605,3/28/20,278,2,28
+Australian Capital Territory,Australia,-35.4735,149.0124,3/29/20,77,0,2
+New South Wales,Australia,-33.8688,151.2093,3/29/20,1791,8,4
+Northern Territory,Australia,-12.4634,130.8456,3/29/20,15,0,0
+Queensland,Australia,-28.0167,153.4,3/29/20,656,2,8
+South Australia,Australia,-34.9285,138.6007,3/29/20,299,0,6
+Tasmania,Australia,-41.4545,145.9707,3/29/20,66,0,5
+Victoria,Australia,-37.8136,144.9631,3/29/20,769,4,191
+Western Australia,Australia,-31.9505,115.8605,3/29/20,311,2,28
+Australian Capital Territory,Australia,-35.4735,149.0124,3/30/20,78,1,2
+New South Wales,Australia,-33.8688,151.2093,3/30/20,2032,8,4
+Northern Territory,Australia,-12.4634,130.8456,3/30/20,15,0,0
+Queensland,Australia,-28.0167,153.4,3/30/20,689,2,8
+South Australia,Australia,-34.9285,138.6007,3/30/20,305,0,6
+Tasmania,Australia,-41.4545,145.9707,3/30/20,66,0,5
+Victoria,Australia,-37.8136,144.9631,3/30/20,821,4,191
+Western Australia,Australia,-31.9505,115.8605,3/30/20,355,2,41
+Australian Capital Territory,Australia,-35.4735,149.0124,3/31/20,80,1,3
+New South Wales,Australia,-33.8688,151.2093,3/31/20,2032,8,4
+Northern Territory,Australia,-12.4634,130.8456,3/31/20,17,0,0
+Queensland,Australia,-28.0167,153.4,3/31/20,743,2,8
+South Australia,Australia,-34.9285,138.6007,3/31/20,337,0,6
+Tasmania,Australia,-41.4545,145.9707,3/31/20,69,1,5
+Victoria,Australia,-37.8136,144.9631,3/31/20,917,4,291
+Western Australia,Australia,-31.9505,115.8605,3/31/20,364,2,41
+Australian Capital Territory,Australia,-35.4735,149.0124,4/1/20,84,1,8
+New South Wales,Australia,-33.8688,151.2093,4/1/20,2182,9,4
+Northern Territory,Australia,-12.4634,130.8456,4/1/20,19,0,0
+Queensland,Australia,-28.0167,153.4,4/1/20,781,2,8
+South Australia,Australia,-34.9285,138.6007,4/1/20,367,0,6
+Tasmania,Australia,-41.4545,145.9707,4/1/20,69,2,5
+Victoria,Australia,-37.8136,144.9631,4/1/20,968,4,343
+Western Australia,Australia,-31.9505,115.8605,4/1/20,392,2,48
+Australian Capital Territory,Australia,-35.4735,149.0124,4/2/20,87,1,11
+New South Wales,Australia,-33.8688,151.2093,4/2/20,2298,10,4
+Northern Territory,Australia,-12.4634,130.8456,4/2/20,21,0,0
+Queensland,Australia,-28.0167,153.4,4/2/20,835,4,8
+South Australia,Australia,-34.9285,138.6007,4/2/20,367,0,6
+Tasmania,Australia,-41.4545,145.9707,4/2/20,72,2,5
+Victoria,Australia,-37.8136,144.9631,4/2/20,1036,5,422
+Western Australia,Australia,-31.9505,115.8605,4/2/20,400,2,64
+Australian Capital Territory,Australia,-35.4735,149.0124,4/3/20,91,1,18
+New South Wales,Australia,-33.8688,151.2093,4/3/20,2389,12,4
+Northern Territory,Australia,-12.4634,130.8456,4/3/20,22,0,0
+Queensland,Australia,-28.0167,153.4,4/3/20,873,4,8
+South Australia,Australia,-34.9285,138.6007,4/3/20,396,0,46
+Tasmania,Australia,-41.4545,145.9707,4/3/20,74,2,5
+Victoria,Australia,-37.8136,144.9631,4/3/20,1085,7,476
+Western Australia,Australia,-31.9505,115.8605,4/3/20,400,2,92
+Australian Capital Territory,Australia,-35.4735,149.0124,4/4/20,93,2,18
+New South Wales,Australia,-33.8688,151.2093,4/4/20,2493,12,4
+Northern Territory,Australia,-12.4634,130.8456,4/4/20,26,0,1
+Queensland,Australia,-28.0167,153.4,4/4/20,900,4,8
+South Australia,Australia,-34.9285,138.6007,4/4/20,407,0,46
+Tasmania,Australia,-41.4545,145.9707,4/4/20,80,2,5
+Victoria,Australia,-37.8136,144.9631,4/4/20,1115,8,527
+Western Australia,Australia,-31.9505,115.8605,4/4/20,436,2,92
+Australian Capital Territory,Australia,-35.4735,149.0124,4/5/20,96,2,28
+New South Wales,Australia,-33.8688,151.2093,4/5/20,2580,16,4
+Northern Territory,Australia,-12.4634,130.8456,4/5/20,27,0,1
+Queensland,Australia,-28.0167,153.4,4/5/20,907,4,8
+South Australia,Australia,-34.9285,138.6007,4/5/20,407,0,46
+Tasmania,Australia,-41.4545,145.9707,4/5/20,82,2,5
+Victoria,Australia,-37.8136,144.9631,4/5/20,1135,8,573
+Western Australia,Australia,-31.9505,115.8605,4/5/20,453,3,92
+Australian Capital Territory,Australia,-35.4735,149.0124,4/6/20,96,2,40
+New South Wales,Australia,-33.8688,151.2093,4/6/20,2637,18,4
+Northern Territory,Australia,-12.4634,130.8456,4/6/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/6/20,921,4,173
+South Australia,Australia,-34.9285,138.6007,4/6/20,411,0,53
+Tasmania,Australia,-41.4545,145.9707,4/6/20,86,2,26
+Victoria,Australia,-37.8136,144.9631,4/6/20,1158,10,620
+Western Australia,Australia,-31.9505,115.8605,4/6/20,460,4,162
+Australian Capital Territory,Australia,-35.4735,149.0124,4/7/20,96,2,40
+New South Wales,Australia,-33.8688,151.2093,4/7/20,2686,21,4
+Northern Territory,Australia,-12.4634,130.8456,4/7/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/7/20,934,4,173
+South Australia,Australia,-34.9285,138.6007,4/7/20,411,1,53
+Tasmania,Australia,-41.4545,145.9707,4/7/20,89,2,26
+Victoria,Australia,-37.8136,144.9631,4/7/20,1191,11,620
+Western Australia,Australia,-31.9505,115.8605,4/7/20,460,4,162
+Australian Capital Territory,Australia,-35.4735,149.0124,4/8/20,99,2,40
+New South Wales,Australia,-33.8688,151.2093,4/8/20,2734,21,4
+Northern Territory,Australia,-12.4634,130.8456,4/8/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/8/20,943,4,173
+South Australia,Australia,-34.9285,138.6007,4/8/20,415,2,53
+Tasmania,Australia,-41.4545,145.9707,4/8/20,98,3,26
+Victoria,Australia,-37.8136,144.9631,4/8/20,1212,12,620
+Western Australia,Australia,-31.9505,115.8605,4/8/20,481,6,162
+Australian Capital Territory,Australia,-35.4735,149.0124,4/9/20,100,2,47
+New South Wales,Australia,-33.8688,151.2093,4/9/20,2773,21,4
+Northern Territory,Australia,-12.4634,130.8456,4/9/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/9/20,953,4,345
+South Australia,Australia,-34.9285,138.6007,4/9/20,420,3,120
+Tasmania,Australia,-41.4545,145.9707,4/9/20,111,3,48
+Victoria,Australia,-37.8136,144.9631,4/9/20,1228,12,736
+Western Australia,Australia,-31.9505,115.8605,4/9/20,495,6,170
+Australian Capital Territory,Australia,-35.4735,149.0124,4/10/20,103,2,59
+New South Wales,Australia,-33.8688,151.2093,4/10/20,2822,22,4
+Northern Territory,Australia,-12.4634,130.8456,4/10/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/10/20,965,4,372
+South Australia,Australia,-34.9285,138.6007,4/10/20,428,3,179
+Tasmania,Australia,-41.4545,145.9707,4/10/20,122,4,48
+Victoria,Australia,-37.8136,144.9631,4/10/20,1241,13,926
+Western Australia,Australia,-31.9505,115.8605,4/10/20,506,6,203
+Australian Capital Territory,Australia,-35.4735,149.0124,4/11/20,103,2,59
+New South Wales,Australia,-33.8688,151.2093,4/11/20,2857,23,4
+Northern Territory,Australia,-12.4634,130.8456,4/11/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/11/20,974,5,372
+South Australia,Australia,-34.9285,138.6007,4/11/20,429,3,179
+Tasmania,Australia,-41.4545,145.9707,4/11/20,133,4,48
+Victoria,Australia,-37.8136,144.9631,4/11/20,1265,14,926
+Western Australia,Australia,-31.9505,115.8605,4/11/20,514,6,216
+Australian Capital Territory,Australia,-35.4735,149.0124,4/12/20,103,2,59
+New South Wales,Australia,-33.8688,151.2093,4/12/20,2857,24,4
+Northern Territory,Australia,-12.4634,130.8456,4/12/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/12/20,983,5,372
+South Australia,Australia,-34.9285,138.6007,4/12/20,429,4,179
+Tasmania,Australia,-41.4545,145.9707,4/12/20,133,5,48
+Victoria,Australia,-37.8136,144.9631,4/12/20,1268,14,926
+Western Australia,Australia,-31.9505,115.8605,4/12/20,514,6,216
+Australian Capital Territory,Australia,-35.4735,149.0124,4/13/20,102,2,59
+New South Wales,Australia,-33.8688,151.2093,4/13/20,2863,25,4
+Northern Territory,Australia,-12.4634,130.8456,4/13/20,28,0,2
+Queensland,Australia,-28.0167,153.4,4/13/20,987,5,372
+South Australia,Australia,-34.9285,138.6007,4/13/20,429,4,179
+Tasmania,Australia,-41.4545,145.9707,4/13/20,144,5,48
+Victoria,Australia,-37.8136,144.9631,4/13/20,1281,14,926
+Western Australia,Australia,-31.9505,115.8605,4/13/20,517,6,216
+Australian Capital Territory,Australia,-35.4735,149.0124,4/14/20,103,2,72
+New South Wales,Australia,-33.8688,151.2093,4/14/20,2870,25,4
+Northern Territory,Australia,-12.4634,130.8456,4/14/20,28,0,6
+Queensland,Australia,-28.0167,153.4,4/14/20,998,5,442
+South Australia,Australia,-34.9285,138.6007,4/14/20,433,4,240
+Tasmania,Australia,-41.4545,145.9707,4/14/20,165,6,53
+Victoria,Australia,-37.8136,144.9631,4/14/20,1291,14,1118
+Western Australia,Australia,-31.9505,115.8605,4/14/20,527,6,251
+Australian Capital Territory,Australia,-35.4735,149.0124,4/15/20,103,3,72
+New South Wales,Australia,-33.8688,151.2093,4/15/20,2886,25,4
+Northern Territory,Australia,-12.4634,130.8456,4/15/20,28,0,6
+Queensland,Australia,-28.0167,153.4,4/15/20,999,5,442
+South Australia,Australia,-34.9285,138.6007,4/15/20,433,4,240
+Tasmania,Australia,-41.4545,145.9707,4/15/20,165,6,53
+Victoria,Australia,-37.8136,144.9631,4/15/20,1299,14,1118
+Western Australia,Australia,-31.9505,115.8605,4/15/20,527,6,251
+Australian Capital Territory,Australia,-35.4735,149.0124,4/16/20,103,3,82
+New South Wales,Australia,-33.8688,151.2093,4/16/20,2897,25,4
+Northern Territory,Australia,-12.4634,130.8456,4/16/20,28,0,6
+Queensland,Australia,-28.0167,153.4,4/16/20,1001,5,442
+South Australia,Australia,-34.9285,138.6007,4/16/20,433,4,279
+Tasmania,Australia,-41.4545,145.9707,4/16/20,169,6,67
+Victoria,Australia,-37.8136,144.9631,4/16/20,1299,14,1137
+Western Australia,Australia,-31.9505,115.8605,4/16/20,532,6,338
