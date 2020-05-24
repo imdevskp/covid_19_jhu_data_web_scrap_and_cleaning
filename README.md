@@ -11,15 +11,15 @@ This repository contains data and code used to get and clean data from https://g
 
 ## Files
 
-*data_cleaning.ipynb* - Notebook used to get, clean and save data  
-*flurish_script.ipynb* - Notebook used to format data to create flurish running bar chart  
+* *data_cleaning.ipynb* - Notebook used to get, clean and save data  
+* *flurish_script.ipynb* - Notebook used to format data to create flurish running bar chart  
   
-*covid_19_clean_complete.csv* - Country wise day to day cases dataset  
-*usa_county_wise.csv* - US county day to day cases dataset  
+* *covid_19_clean_complete.csv* - Country wise day to day cases dataset  
+* *usa_county_wise.csv* - US county day to day cases dataset  
 
-*time_series_covid19_confirmed_global.ipynb* - Has day to day global confirmed cases data  
-*time_series_covid19_deaths_global.ipynb* - Has day to day global deaths data  
-*time_series_covid19_recovered_global.ipynb* - Has day to day global recovered data  
+* *time_series_covid19_confirmed_global.ipynb* - Has day to day global confirmed cases data  
+* *time_series_covid19_deaths_global.ipynb* - Has day to day global deaths data  
+* *time_series_covid19_recovered_global.ipynb* - Has day to day global recovered data  
   
-*time_series_covid19_confirmed_US.ipynb* - Has day to day US confirmed cases data  
-*time_series_covid19_deaths_US.ipynb* - Has day to day US deaths data  
+* *time_series_covid19_confirmed_US.ipynb* - Has day to day US confirmed cases data  
+* *time_series_covid19_deaths_US.ipynb* - Has day to day US deaths data  
