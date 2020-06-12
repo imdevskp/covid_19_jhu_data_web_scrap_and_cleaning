@@ -1,5 +1,7 @@
 # covid_19_jhu_data_web_scrap_and_cleaning
-This repository contains data and code used to get and clean data from https://github.com/CSSEGISandData/COVID-19 and https://www.worldometers.info/coronavirus/
+This repository contains data and code used to get and clean data from 
+1. https://github.com/CSSEGISandData/COVID-19 and 
+2. https://www.worldometers.info/coronavirus/
 
 ## JHU data
 * https://github.com/CSSEGISandData/COVID-19 contains the data that supports JHU's dashboard at https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
@@ -18,6 +20,10 @@ This repository contains data and code used to get and clean data from https://g
 ### Data    
 * > *covid_19_clean_complete.csv* - Country wise day to day cases dataset  
 * > *usa_county_wise.csv* - US county day to day cases dataset  
+
+> * *full_grouped.csv* - Day to day country wise no. of cases (Has County/State/Province level data)  
+> * *country_wise_latest.csv* - Latest country level no. of cases  
+> * *day_wise.csv* - Day wise no. of cases (Doesn't have country level data)  
   
 * > *worldometer_data.csv* - Data from https://www.worldometers.info/about/
    
