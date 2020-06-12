@@ -21,9 +21,9 @@ This repository contains data and code used to get and clean data from
 * > *covid_19_clean_complete.csv* - Country wise day to day cases dataset  
 * > *usa_county_wise.csv* - US county day to day cases dataset  
 
-> * *full_grouped.csv* - Day to day country wise no. of cases (Has County/State/Province level data)  
-> * *country_wise_latest.csv* - Latest country level no. of cases  
-> * *day_wise.csv* - Day wise no. of cases (Doesn't have country level data)  
+* > *full_grouped.csv* - Day to day country wise no. of cases (Has County/State/Province level data)  
+* > *country_wise_latest.csv* - Latest country level no. of cases  
+* > *day_wise.csv* - Day wise no. of cases (Doesn't have country level data)  
   
 * > *worldometer_data.csv* - Data from https://www.worldometers.info/about/
    
