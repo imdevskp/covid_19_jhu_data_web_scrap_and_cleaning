@@ -10134,7 +10134,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-03-16,Chad,0,0,0,0,0,0,0,Africa
 2020-03-16,Chile,155,0,0,155,81,0,0,Americas
 2020-03-16,China,81033,3217,66178,11638,30,14,893,Western Pacific
-2020-03-16,Colombia,54,0,0,54,20,0,0,Americas
+2020-03-16,Colombia,57,0,0,57,23,0,0,Americas
 2020-03-16,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-16,Congo (Brazzaville),1,0,0,1,0,0,0,Africa
 2020-03-16,Congo (Kinshasa),2,0,0,2,0,0,0,Africa
@@ -10321,7 +10321,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-03-17,Chad,0,0,0,0,0,0,0,Africa
 2020-03-17,Chile,201,0,0,201,46,0,0,Americas
 2020-03-17,China,81058,3230,67066,10762,25,13,888,Western Pacific
-2020-03-17,Colombia,65,0,1,64,11,0,1,Americas
+2020-03-17,Colombia,75,0,1,74,18,0,1,Americas
 2020-03-17,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-17,Congo (Brazzaville),1,0,0,1,0,0,0,Africa
 2020-03-17,Congo (Kinshasa),3,0,0,3,1,0,0,Africa
@@ -10508,7 +10508,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-03-18,Chad,0,0,0,0,0,0,0,Africa
 2020-03-18,Chile,238,0,0,238,37,0,0,Americas
 2020-03-18,China,81102,3241,68023,9838,44,11,957,Western Pacific
-2020-03-18,Colombia,93,0,1,92,28,0,0,Americas
+2020-03-18,Colombia,102,0,1,101,27,0,0,Americas
 2020-03-18,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-18,Congo (Brazzaville),1,0,0,1,0,0,0,Africa
 2020-03-18,Congo (Kinshasa),4,0,0,4,1,0,0,Africa
@@ -10695,7 +10695,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-03-19,Chad,1,0,0,1,1,0,0,Africa
 2020-03-19,Chile,238,0,0,238,0,0,0,Americas
 2020-03-19,China,81156,3249,68803,9104,54,8,780,Western Pacific
-2020-03-19,Colombia,102,0,1,101,9,0,0,Americas
+2020-03-19,Colombia,108,0,1,107,6,0,0,Americas
 2020-03-19,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-19,Congo (Brazzaville),3,0,0,3,2,0,0,Africa
 2020-03-19,Congo (Kinshasa),14,0,0,14,10,0,0,Africa
@@ -10882,7 +10882,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-03-20,Chad,1,0,0,1,0,0,0,Africa
 2020-03-20,Chile,434,0,6,428,196,0,6,Americas
 2020-03-20,China,81250,3253,69534,8463,94,4,731,Western Pacific
-2020-03-20,Colombia,128,0,1,127,26,0,0,Americas
+2020-03-20,Colombia,158,0,1,157,50,0,0,Americas
 2020-03-20,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-20,Congo (Brazzaville),3,0,0,3,0,0,0,Africa
 2020-03-20,Congo (Kinshasa),18,0,0,18,4,0,0,Africa
@@ -11069,7 +11069,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-03-21,Chad,1,0,0,1,0,0,0,Africa
 2020-03-21,Chile,537,0,6,531,103,0,0,Americas
 2020-03-21,China,81305,3259,70125,7921,55,6,591,Western Pacific
-2020-03-21,Colombia,196,0,1,195,68,0,0,Americas
+2020-03-21,Colombia,196,0,1,195,38,0,0,Americas
 2020-03-21,Comoros,0,0,0,0,0,0,0,Africa
 2020-03-21,Congo (Brazzaville),3,0,0,3,0,0,0,Africa
 2020-03-21,Congo (Kinshasa),23,1,0,22,5,1,0,Africa
@@ -16305,7 +16305,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-04-18,Chad,33,0,8,25,6,0,3,Africa
 2020-04-18,Chile,9730,126,4035,5569,478,10,414,Americas
 2020-04-18,China,83787,4636,75867,3284,27,0,62,Western Pacific
-2020-04-18,Colombia,3439,153,634,2652,0,0,0,Americas
+2020-04-18,Colombia,3621,166,634,2821,182,13,0,Americas
 2020-04-18,Comoros,0,0,0,0,0,0,0,Africa
 2020-04-18,Congo (Brazzaville),143,6,11,126,0,0,0,Africa
 2020-04-18,Congo (Kinshasa),307,25,26,256,20,2,1,Africa
@@ -16492,7 +16492,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-04-19,Chad,33,0,8,25,0,0,0,Africa
 2020-04-19,Chile,10088,133,4338,5617,358,7,303,Americas
 2020-04-19,China,83805,4636,75942,3227,18,0,75,Western Pacific
-2020-04-19,Colombia,3792,179,711,2902,353,26,77,Americas
+2020-04-19,Colombia,3792,179,711,2902,171,13,77,Americas
 2020-04-19,Comoros,0,0,0,0,0,0,0,Africa
 2020-04-19,Congo (Brazzaville),143,6,11,126,0,0,0,Africa
 2020-04-19,Congo (Kinshasa),327,25,26,276,20,0,0,Africa
@@ -23785,7 +23785,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-05-28,Chad,726,65,413,248,11,1,54,Africa
 2020-05-28,Chile,86943,890,36115,49938,4654,49,2575,Americas
 2020-05-28,China,84106,4638,77612,1856,0,0,4,Western Pacific
-2020-05-28,Colombia,24141,833,6132,17176,37,30,21,Americas
+2020-05-28,Colombia,25366,822,6132,18412,1262,19,21,Americas
 2020-05-28,Comoros,87,2,24,61,0,0,0,Africa
 2020-05-28,Congo (Brazzaville),571,19,161,391,0,0,0,Africa
 2020-05-28,Congo (Kinshasa),2660,69,381,2210,114,1,16,Africa
@@ -23972,7 +23972,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-05-29,Chad,759,65,444,250,33,0,31,Africa
 2020-05-29,Chile,90638,944,38598,51096,3695,54,2483,Americas
 2020-05-29,China,84123,4638,77623,1862,17,0,11,Western Pacific
-2020-05-29,Colombia,25406,855,6687,17864,1265,22,555,Americas
+2020-05-29,Colombia,26688,853,6687,19148,1322,31,555,Americas
 2020-05-29,Comoros,87,2,24,61,0,0,0,Africa
 2020-05-29,Congo (Brazzaville),571,19,161,391,0,0,0,Africa
 2020-05-29,Congo (Kinshasa),2833,69,400,2364,173,0,19,Africa
@@ -24159,7 +24159,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-05-30,Chad,759,65,470,224,0,0,26,Africa
 2020-05-30,Chile,94858,997,40431,53430,4220,53,1833,Americas
 2020-05-30,China,84128,4638,77627,1863,5,0,4,Western Pacific
-2020-05-30,Colombia,26734,891,6935,18908,1328,36,248,Americas
+2020-05-30,Colombia,28236,890,6935,20411,1548,37,248,Americas
 2020-05-30,Comoros,106,2,26,78,19,0,2,Africa
 2020-05-30,Congo (Brazzaville),571,19,161,391,0,0,0,Africa
 2020-05-30,Congo (Kinshasa),2966,69,428,2469,133,0,28,Africa
@@ -24346,7 +24346,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-05-31,Chad,778,65,491,222,19,0,21,Africa
 2020-05-31,Chile,99688,1054,42727,55907,4830,57,2296,Americas
 2020-05-31,China,84146,4638,77630,1878,18,0,3,Western Pacific
-2020-05-31,Colombia,27219,916,7032,19271,485,25,97,Americas
+2020-05-31,Colombia,29383,939,7032,21412,1147,49,97,Americas
 2020-05-31,Comoros,106,2,26,78,0,0,0,Africa
 2020-05-31,Congo (Brazzaville),611,20,179,412,40,1,18,Africa
 2020-05-31,Congo (Kinshasa),3070,72,448,2550,104,3,20,Africa
@@ -24533,7 +24533,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-01,Chad,790,66,539,185,12,1,48,Africa
 2020-06-01,Chile,105158,1113,44946,59099,5470,59,2219,Americas
 2020-06-01,China,84154,4638,77639,1877,8,0,9,Western Pacific
-2020-06-01,Colombia,29384,963,8384,20037,2165,47,1352,Americas
+2020-06-01,Colombia,30493,969,8384,21140,1110,30,1352,Americas
 2020-06-01,Comoros,106,2,26,78,0,0,0,Africa
 2020-06-01,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-01,Congo (Kinshasa),3195,72,454,2669,125,0,6,Africa
@@ -24720,7 +24720,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-02,Chad,803,66,562,175,13,0,23,Africa
 2020-06-02,Chile,108686,1188,86173,21325,3528,75,41227,Americas
 2020-06-02,China,84161,4638,77641,1882,7,0,2,Western Pacific
-2020-06-02,Colombia,30593,1014,9689,19890,1209,51,1305,Americas
+2020-06-02,Colombia,31833,1009,9689,21135,1340,40,1305,Americas
 2020-06-02,Comoros,132,2,27,103,26,0,1,Africa
 2020-06-02,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-02,Congo (Kinshasa),3326,72,482,2772,131,0,28,Africa
@@ -24907,7 +24907,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-03,Chad,820,66,590,164,17,0,28,Africa
 2020-06-03,Chile,113628,1275,90748,21605,4942,87,4575,Americas
 2020-06-03,China,84160,4638,77645,1877,0,0,4,Western Pacific
-2020-06-03,Colombia,31935,1057,11171,19707,1342,43,1482,Americas
+2020-06-03,Colombia,33354,1045,11171,21138,1521,36,1482,Americas
 2020-06-03,Comoros,132,2,27,103,0,0,0,Africa
 2020-06-03,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-03,Congo (Kinshasa),3495,75,492,2928,169,3,10,Africa
@@ -25094,7 +25094,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-04,Chad,828,66,633,129,8,0,43,Africa
 2020-06-04,Chile,118292,1356,95631,21305,4664,81,4883,Americas
 2020-06-04,China,84171,4638,77656,1877,11,0,11,Western Pacific
-2020-06-04,Colombia,33466,1099,12319,20048,1531,42,1148,Americas
+2020-06-04,Colombia,35120,1087,12319,21714,1766,42,1148,Americas
 2020-06-04,Comoros,132,2,55,75,0,0,28,Africa
 2020-06-04,Congo (Brazzaville),611,20,179,412,0,0,0,Africa
 2020-06-04,Congo (Kinshasa),3644,78,495,3071,149,3,3,Africa
@@ -25281,7 +25281,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-05,Chad,836,68,657,111,8,2,24,Africa
 2020-06-05,Chile,122499,1448,99358,21693,4207,92,3727,Americas
 2020-06-05,China,84177,4638,77661,1878,6,0,5,Western Pacific
-2020-06-05,Colombia,36759,1204,13670,21885,3293,105,1351,Americas
+2020-06-05,Colombia,36635,1145,13670,21820,1515,58,1351,Americas
 2020-06-05,Comoros,132,2,55,75,0,0,0,Africa
 2020-06-05,Congo (Brazzaville),635,20,182,433,24,0,3,Africa
 2020-06-05,Congo (Kinshasa),3764,81,512,3171,120,3,17,Africa
@@ -25468,7 +25468,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-06,Chad,836,69,672,95,0,1,15,Africa
 2020-06-06,Chile,127745,1541,103817,22387,5246,93,4459,Americas
 2020-06-06,China,84186,4638,77665,1883,9,0,4,Western Pacific
-2020-06-06,Colombia,36759,1204,13670,21885,0,0,0,Americas
+2020-06-06,Colombia,38027,1205,13670,23152,1392,60,0,Americas
 2020-06-06,Comoros,141,2,67,72,9,0,12,Africa
 2020-06-06,Congo (Brazzaville),683,22,210,451,48,2,28,Africa
 2020-06-06,Congo (Kinshasa),3878,82,537,3259,114,1,25,Africa
@@ -25655,7 +25655,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-07,Chad,837,69,672,96,1,0,0,Africa
 2020-06-07,Chile,134150,1637,108150,24363,6405,96,4333,Americas
 2020-06-07,China,84191,4638,77675,1878,5,0,10,Western Pacific
-2020-06-07,Colombia,38149,1265,14414,22470,1390,61,744,Americas
+2020-06-07,Colombia,39236,1259,14414,23563,1209,54,744,Americas
 2020-06-07,Comoros,141,2,67,72,0,0,0,Africa
 2020-06-07,Congo (Brazzaville),683,22,210,451,0,0,0,Africa
 2020-06-07,Congo (Kinshasa),4016,85,537,3394,138,3,0,Africa
@@ -25842,7 +25842,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-08,Chad,839,70,685,84,2,1,13,Africa
 2020-06-08,Chile,138846,2264,112248,24334,4696,627,4098,Americas
 2020-06-08,China,84195,4638,77685,1872,4,0,10,Western Pacific
-2020-06-08,Colombia,40847,1373,16459,23015,2698,108,2045,Americas
+2020-06-08,Colombia,40719,1308,16459,22952,1483,49,2045,Americas
 2020-06-08,Comoros,141,2,67,72,0,0,0,Africa
 2020-06-08,Congo (Brazzaville),683,22,210,451,0,0,0,Africa
 2020-06-08,Congo (Kinshasa),4106,88,537,3481,90,3,0,Africa
@@ -26029,7 +26029,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-09,Chad,844,71,706,67,5,1,21,Africa
 2020-06-09,Chile,142759,2283,117361,23115,3913,19,5113,Americas
 2020-06-09,China,84198,4638,77692,1868,3,0,7,Western Pacific
-2020-06-09,Colombia,40847,1373,16459,23015,0,0,0,Americas
+2020-06-09,Colombia,42078,1372,16459,24247,1359,64,0,Americas
 2020-06-09,Comoros,141,2,67,72,0,0,0,Africa
 2020-06-09,Congo (Brazzaville),728,24,221,483,45,2,11,Africa
 2020-06-09,Congo (Kinshasa),4259,90,539,3630,153,2,2,Africa
@@ -26216,7 +26216,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-10,Chad,846,72,706,68,2,1,0,Africa
 2020-06-10,Chile,148456,2475,121780,24201,5697,192,4419,Americas
 2020-06-10,China,84209,4638,77697,1874,11,0,5,Western Pacific
-2020-06-10,Colombia,42206,1439,16566,24201,1359,66,107,Americas
+2020-06-10,Colombia,43682,1433,16566,25683,1604,61,107,Americas
 2020-06-10,Comoros,162,2,97,63,21,0,30,Africa
 2020-06-10,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-10,Congo (Kinshasa),4390,96,565,3729,131,6,26,Africa
@@ -26403,7 +26403,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-11,Chad,848,72,706,70,2,0,0,Africa
 2020-06-11,Chile,154092,2648,126444,25000,5636,173,4664,Americas
 2020-06-11,China,84216,4638,77705,1873,7,0,8,Western Pacific
-2020-06-11,Colombia,43810,1505,17366,24939,1604,66,800,Americas
+2020-06-11,Colombia,45212,1488,17366,26358,1530,55,800,Americas
 2020-06-11,Comoros,162,2,97,63,0,0,0,Africa
 2020-06-11,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-11,Congo (Kinshasa),4515,98,567,3850,125,2,2,Africa
@@ -26590,7 +26590,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-12,Chad,848,72,711,65,0,0,5,Africa
 2020-06-12,Chile,160846,2870,131358,26618,6754,222,4914,Americas
 2020-06-12,China,84228,4638,77713,1877,12,0,8,Western Pacific
-2020-06-12,Colombia,45344,1562,17823,25959,1534,57,457,Americas
+2020-06-12,Colombia,46858,1545,17823,27490,1646,57,457,Americas
 2020-06-12,Comoros,163,2,97,64,1,0,0,Africa
 2020-06-12,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-12,Congo (Kinshasa),4637,101,580,3956,122,3,13,Africa
@@ -26777,7 +26777,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-13,Chad,848,72,718,58,0,0,7,Africa
 2020-06-13,Chile,167355,3101,137296,26958,6509,231,5938,Americas
 2020-06-13,China,84286,4638,77716,1932,58,0,3,Western Pacific
-2020-06-13,Colombia,46994,1623,18749,26622,1650,61,926,Americas
+2020-06-13,Colombia,48746,1592,18749,28405,1888,47,926,Americas
 2020-06-13,Comoros,176,2,114,60,13,0,17,Africa
 2020-06-13,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-13,Congo (Kinshasa),4724,106,595,4023,87,5,15,Africa
@@ -26964,7 +26964,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-14,Chad,850,73,720,57,2,1,2,Africa
 2020-06-14,Chile,174293,3323,143704,27266,6938,222,6408,Americas
 2020-06-14,China,84335,4638,77723,1974,49,0,7,Western Pacific
-2020-06-14,Colombia,48896,1670,19460,27766,1902,47,711,Americas
+2020-06-14,Colombia,50939,1667,19460,29812,2193,75,711,Americas
 2020-06-14,Comoros,176,2,114,60,0,0,0,Africa
 2020-06-14,Congo (Brazzaville),728,24,221,483,0,0,0,Africa
 2020-06-14,Congo (Kinshasa),4778,107,600,4071,54,1,5,Africa
@@ -27151,7 +27151,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-15,Chad,850,73,720,57,0,0,0,Africa
 2020-06-15,Chile,179436,3362,148792,27282,5143,39,5088,Americas
 2020-06-15,China,84378,4638,77730,2010,43,0,7,Western Pacific
-2020-06-15,Colombia,53168,1808,19985,31375,4272,138,525,Americas
+2020-06-15,Colombia,53063,1726,19985,31352,2124,59,525,Americas
 2020-06-15,Comoros,176,2,114,60,0,0,0,Africa
 2020-06-15,Congo (Brazzaville),883,27,391,465,155,3,170,Africa
 2020-06-15,Congo (Kinshasa),4837,112,613,4112,59,5,13,Africa
@@ -27338,7 +27338,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-16,Chad,853,74,720,59,3,1,0,Africa
 2020-06-16,Chile,184449,3383,156232,24834,5013,21,7440,Americas
 2020-06-16,China,84422,4638,77734,2050,44,0,4,Western Pacific
-2020-06-16,Colombia,53211,1808,19986,31417,43,0,1,Americas
+2020-06-16,Colombia,54931,1801,19986,33144,1868,75,1,Americas
 2020-06-16,Comoros,197,3,127,67,21,1,13,Africa
 2020-06-16,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-16,Congo (Kinshasa),4974,112,628,4234,137,0,15,Africa
@@ -27525,7 +27525,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-17,Chad,854,74,721,59,1,0,1,Africa
 2020-06-17,Chile,220628,3615,181931,35082,36179,232,25699,Americas
 2020-06-17,China,84458,4638,77751,2069,36,0,17,Western Pacific
-2020-06-17,Colombia,55083,1887,20400,32796,1872,79,414,Americas
+2020-06-17,Colombia,57046,1864,20400,34782,2115,63,414,Americas
 2020-06-17,Comoros,197,3,127,67,0,0,0,Africa
 2020-06-17,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-17,Congo (Kinshasa),5100,115,640,4345,126,3,12,Africa
@@ -27712,7 +27712,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-18,Chad,854,74,733,47,0,0,12,Africa
 2020-06-18,Chile,225103,3841,186441,34821,4475,226,4510,Americas
 2020-06-18,China,84494,4638,77756,2100,36,0,5,Western Pacific
-2020-06-18,Colombia,57202,1955,21361,33886,2119,68,961,Americas
+2020-06-18,Colombia,60217,1950,21361,36906,3171,86,961,Americas
 2020-06-18,Comoros,210,5,129,76,13,2,2,Africa
 2020-06-18,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-18,Congo (Kinshasa),5283,117,685,4481,183,2,45,Africa
@@ -27899,7 +27899,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-19,Chad,858,74,742,42,4,0,9,Africa
 2020-06-19,Chile,231393,4093,191491,35809,6290,252,5050,Americas
 2020-06-19,China,84494,4638,77756,2100,0,0,0,Western Pacific
-2020-06-19,Colombia,60387,2046,22726,35615,3185,91,1365,Americas
+2020-06-19,Colombia,63276,2045,22726,38505,3059,95,1365,Americas
 2020-06-19,Comoros,210,5,129,76,0,0,0,Africa
 2020-06-19,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-19,Congo (Kinshasa),5477,122,719,4636,194,5,34,Africa
@@ -28086,7 +28086,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-20,Chad,858,74,746,38,0,0,4,Africa
 2020-06-20,Chile,236748,4295,196609,35844,5355,202,5118,Americas
 2020-06-20,China,84553,4639,77775,2139,59,1,19,Western Pacific
-2020-06-20,Colombia,63454,2148,24035,37271,3067,102,1309,Americas
+2020-06-20,Colombia,65633,2126,24035,39472,2357,81,1309,Americas
 2020-06-20,Comoros,247,5,159,83,37,0,30,Africa
 2020-06-20,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-20,Congo (Kinshasa),5672,125,807,4740,195,3,88,Africa
@@ -28273,7 +28273,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-21,Chad,858,74,752,32,0,0,6,Africa
 2020-06-21,Chile,242355,4479,200569,37307,5607,184,3960,Americas
 2020-06-21,China,84572,4639,77776,2157,19,0,1,Western Pacific
-2020-06-21,Colombia,68836,2353,27412,39071,5382,205,3377,Americas
+2020-06-21,Colombia,68652,2237,27412,39003,3019,111,3377,Americas
 2020-06-21,Comoros,247,5,159,83,0,0,0,Africa
 2020-06-21,Congo (Brazzaville),883,27,391,465,0,0,0,Africa
 2020-06-21,Congo (Kinshasa),5826,130,841,4855,154,5,34,Africa
@@ -28460,7 +28460,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-22,Chad,858,74,755,29,0,0,3,Africa
 2020-06-22,Chile,246963,4502,205397,37064,4608,23,4828,Americas
 2020-06-22,China,84624,4639,77787,2198,52,0,11,Western Pacific
-2020-06-22,Colombia,71367,2426,29024,39917,2531,73,1612,Americas
+2020-06-22,Colombia,71183,2310,29024,39849,2531,73,1612,Americas
 2020-06-22,Comoros,247,5,159,83,0,0,0,Africa
 2020-06-22,Congo (Brazzaville),1087,37,456,594,204,10,65,Africa
 2020-06-22,Congo (Kinshasa),5924,135,856,4933,98,5,15,Africa
@@ -28647,7 +28647,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-23,Chad,860,74,757,29,2,0,2,Africa
 2020-06-23,Chile,250767,4505,210570,35692,3804,3,5173,Americas
 2020-06-23,China,84653,4640,77795,2218,29,1,8,Western Pacific
-2020-06-23,Colombia,73760,2524,30517,40719,2393,98,1493,Americas
+2020-06-23,Colombia,73572,2404,30517,40651,2389,94,1493,Americas
 2020-06-23,Comoros,265,7,159,99,18,2,0,Africa
 2020-06-23,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-23,Congo (Kinshasa),6027,135,861,5031,103,0,5,Africa
@@ -28834,7 +28834,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-24,Chad,860,74,770,16,0,0,13,Africa
 2020-06-24,Chile,254416,4731,215093,34592,3649,226,4523,Americas
 2020-06-24,China,84673,4640,77802,2231,20,0,7,Western Pacific
-2020-06-24,Colombia,73760,2524,30517,40719,0,0,0,Americas
+2020-06-24,Colombia,77113,2491,30517,44105,3541,87,0,Americas
 2020-06-24,Comoros,265,7,159,99,0,0,0,Africa
 2020-06-24,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-24,Congo (Kinshasa),6213,142,870,5201,186,7,9,Africa
@@ -29021,7 +29021,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-25,Chad,863,74,774,15,3,0,4,Africa
 2020-06-25,Chile,259064,4903,219327,34834,4648,172,4234,Americas
 2020-06-25,China,84701,4641,77811,2249,28,1,9,Western Pacific
-2020-06-25,Colombia,77313,2611,31729,42973,3553,87,1212,Americas
+2020-06-25,Colombia,80599,2654,31729,46216,3486,163,1212,Americas
 2020-06-25,Comoros,272,7,161,104,7,0,2,Africa
 2020-06-25,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-25,Congo (Kinshasa),6411,142,885,5384,198,0,15,Africa
@@ -29208,7 +29208,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-26,Chad,865,74,778,13,2,0,4,Africa
 2020-06-26,Chile,263360,5068,223431,34861,4296,165,4104,Americas
 2020-06-26,China,84725,4641,77817,2267,24,0,6,Western Pacific
-2020-06-26,Colombia,80811,2786,33410,44615,3498,175,1681,Americas
+2020-06-26,Colombia,84442,2811,33410,48221,3843,157,1681,Americas
 2020-06-26,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-26,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-26,Congo (Kinshasa),6552,149,900,5503,141,7,15,Africa
@@ -29395,7 +29395,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-27,Chad,865,74,778,13,0,0,0,Africa
 2020-06-27,Chile,267766,5347,228055,34364,4406,279,4624,Americas
 2020-06-27,China,84743,4641,77823,2279,18,0,6,Western Pacific
-2020-06-27,Colombia,84660,2946,34999,46715,3849,160,1589,Americas
+2020-06-27,Colombia,88591,2939,34999,50653,4149,128,1589,Americas
 2020-06-27,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-27,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-27,Congo (Kinshasa),6690,153,937,5600,138,4,37,Africa
@@ -29582,7 +29582,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-28,Chad,866,74,780,12,1,0,2,Africa
 2020-06-28,Chile,271982,5509,232210,34263,4216,162,4155,Americas
 2020-06-28,China,84757,4641,77839,2277,14,0,16,Western Pacific
-2020-06-28,Colombia,91995,3256,38345,50394,7335,310,3346,Americas
+2020-06-28,Colombia,91769,3178,38345,50246,3178,239,3346,Americas
 2020-06-28,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-28,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-28,Congo (Kinshasa),6827,157,985,5685,137,4,48,Africa
@@ -29769,7 +29769,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-29,Chad,866,74,781,11,0,0,1,Africa
 2020-06-29,Chile,275999,5575,236154,34270,4017,66,3944,Americas
 2020-06-29,China,84780,4641,77848,2291,23,0,9,Western Pacific
-2020-06-29,Colombia,91995,3256,38345,50394,0,0,0,Americas
+2020-06-29,Colombia,95043,3274,38345,53424,3274,96,0,Americas
 2020-06-29,Comoros,272,7,161,104,0,0,0,Africa
 2020-06-29,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-29,Congo (Kinshasa),6939,167,1050,5722,112,10,65,Africa
@@ -29956,7 +29956,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-06-30,Chad,866,74,781,11,0,0,0,Africa
 2020-06-30,Chile,279393,5688,241229,32476,3394,113,5075,Americas
 2020-06-30,China,84785,4641,77861,2283,5,0,13,Western Pacific
-2020-06-30,Colombia,95269,3376,40021,51872,3274,120,1676,Americas
+2020-06-30,Colombia,97846,3334,40021,54491,2803,60,1676,Americas
 2020-06-30,Comoros,303,7,200,96,31,0,39,Africa
 2020-06-30,Congo (Brazzaville),1087,37,456,594,0,0,0,Africa
 2020-06-30,Congo (Kinshasa),7039,170,1426,5443,100,3,376,Africa
@@ -30143,7 +30143,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-01,Chad,866,74,785,7,0,0,4,Africa
 2020-07-01,Chile,282043,5753,245443,30847,2650,65,4214,Americas
 2020-07-01,China,84816,4641,77879,2296,31,0,18,Western Pacific
-2020-07-01,Colombia,98090,3488,42143,52459,2821,112,2122,Americas
+2020-07-01,Colombia,102009,3470,42143,56396,4163,136,2122,Americas
 2020-07-01,Comoros,303,7,200,96,0,0,0,Africa
 2020-07-01,Congo (Brazzaville),1382,41,486,855,295,4,30,Africa
 2020-07-01,Congo (Kinshasa),7122,175,1785,5162,83,5,359,Africa
@@ -30330,7 +30330,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-02,Chad,868,74,785,9,2,0,0,Africa
 2020-07-02,Chile,284541,5920,249247,29374,2498,167,3804,Americas
 2020-07-02,China,84830,4641,77894,2295,14,0,15,Western Pacific
-2020-07-02,Colombia,102261,3650,43481,55130,4171,162,1338,Americas
+2020-07-02,Colombia,106110,3641,43481,58988,4101,171,1338,Americas
 2020-07-02,Comoros,303,7,200,96,0,0,0,Africa
 2020-07-02,Congo (Brazzaville),1382,41,486,855,0,0,0,Africa
 2020-07-02,Congo (Kinshasa),7189,176,2317,4696,67,1,532,Africa
@@ -30517,7 +30517,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-03,Chad,871,74,786,11,3,0,1,Africa
 2020-07-03,Chile,288089,6051,253343,28695,3548,131,4096,Americas
 2020-07-03,China,84838,4641,77907,2290,8,0,13,Western Pacific
-2020-07-03,Colombia,106392,3851,44606,57935,4131,201,1125,Americas
+2020-07-03,Colombia,109505,3777,44606,61122,3395,136,1125,Americas
 2020-07-03,Comoros,309,7,241,61,6,0,41,Africa
 2020-07-03,Congo (Brazzaville),1557,44,501,1012,175,3,15,Africa
 2020-07-03,Congo (Kinshasa),7311,179,2684,4448,122,3,367,Africa
@@ -30704,7 +30704,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-04,Chad,871,74,787,10,0,0,1,Africa
 2020-07-04,Chile,291847,6192,257451,28204,3758,141,4108,Americas
 2020-07-04,China,84857,4641,77932,2284,19,0,25,Western Pacific
-2020-07-04,Colombia,109793,4001,45409,60383,3401,150,803,Americas
+2020-07-04,Colombia,113389,3942,45409,64038,3884,165,803,Americas
 2020-07-04,Comoros,309,7,241,61,0,0,0,Africa
 2020-07-04,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-04,Congo (Kinshasa),7379,182,2961,4236,68,3,277,Africa
@@ -30891,7 +30891,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-05,Chad,872,74,787,11,1,0,0,Africa
 2020-07-05,Chile,295532,6308,261039,28185,3685,116,3588,Americas
 2020-07-05,China,84871,4641,77944,2286,14,0,12,Western Pacific
-2020-07-05,Colombia,113685,4178,46643,62864,3892,177,1234,Americas
+2020-07-05,Colombia,117110,4064,46643,66403,3721,122,1234,Americas
 2020-07-05,Comoros,311,7,266,38,2,0,25,Africa
 2020-07-05,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-05,Congo (Kinshasa),7411,182,3184,4045,32,0,223,Africa
@@ -31078,7 +31078,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-06,Chad,872,74,787,11,0,0,0,Africa
 2020-07-06,Chile,298557,6384,264378,27795,3025,76,3339,Americas
 2020-07-06,China,84889,4641,77951,2297,18,0,7,Western Pacific
-2020-07-06,Colombia,117412,4305,47961,65146,3727,127,1318,Americas
+2020-07-06,Colombia,120281,4210,47961,68110,3171,146,1318,Americas
 2020-07-06,Comoros,311,7,266,38,0,0,0,Africa
 2020-07-06,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-06,Congo (Kinshasa),7432,182,3226,4024,21,0,42,Africa
@@ -31265,7 +31265,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-07,Chad,873,74,788,11,1,0,1,Africa
 2020-07-07,Chile,301019,6434,268251,26334,2462,50,3873,Americas
 2020-07-07,China,84917,4641,77980,2296,28,0,29,Western Pacific
-2020-07-07,Colombia,120281,4452,50370,65459,2869,147,2409,Americas
+2020-07-07,Colombia,124494,4359,50370,69765,4213,149,2409,Americas
 2020-07-07,Comoros,311,7,266,38,0,0,0,Africa
 2020-07-07,Congo (Brazzaville),1557,44,501,1012,0,0,0,Africa
 2020-07-07,Congo (Kinshasa),7432,182,3226,4024,0,0,0,Africa
@@ -31452,7 +31452,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-08,Chad,873,74,788,11,0,0,0,Africa
 2020-07-08,Chile,303083,6573,271741,24769,2064,139,3490,Americas
 2020-07-08,China,84950,4641,78026,2283,33,0,46,Western Pacific
-2020-07-08,Colombia,124494,4606,51861,68027,4213,154,1491,Americas
+2020-07-08,Colombia,128638,4527,51861,72250,4144,168,1491,Americas
 2020-07-08,Comoros,313,7,272,34,2,0,6,Africa
 2020-07-08,Congo (Brazzaville),1821,47,525,1249,264,3,24,Africa
 2020-07-08,Congo (Kinshasa),7432,182,3226,4024,0,0,0,Africa
@@ -31639,7 +31639,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-09,Chad,873,74,788,11,0,0,0,Africa
 2020-07-09,Chile,306216,6682,274922,24612,3133,109,3181,Americas
 2020-07-09,China,84992,4641,78026,2325,42,0,0,Western Pacific
-2020-07-09,Colombia,128638,4791,53634,70213,4144,185,1773,Americas
+2020-07-09,Colombia,133973,4714,53634,75625,5335,187,1773,Americas
 2020-07-09,Comoros,314,7,272,35,1,0,0,Africa
 2020-07-09,Congo (Brazzaville),1821,47,525,1249,0,0,0,Africa
 2020-07-09,Congo (Kinshasa),7846,189,3513,4144,414,7,287,Africa
@@ -31826,7 +31826,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-10,Chad,874,74,789,11,1,0,1,Africa
 2020-07-10,Chile,309274,6781,278053,24440,3058,99,3131,Americas
 2020-07-10,China,84992,4641,78026,2325,0,0,0,Western Pacific
-2020-07-10,Colombia,133973,4985,56272,72716,5335,194,2638,Americas
+2020-07-10,Colombia,140776,4925,56272,79579,6803,211,2638,Americas
 2020-07-10,Comoros,314,7,272,35,0,0,0,Africa
 2020-07-10,Congo (Brazzaville),2028,47,589,1392,207,0,64,Africa
 2020-07-10,Congo (Kinshasa),7905,189,3513,4203,59,0,0,Africa
@@ -32013,7 +32013,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-11,Chad,874,74,790,10,0,0,1,Africa
 2020-07-11,Chile,312029,6881,281114,24034,2755,100,3061,Americas
 2020-07-11,China,85071,4641,78100,2330,79,0,74,Western Pacific
-2020-07-11,Colombia,140776,5202,58800,76774,6803,217,2528,Americas
+2020-07-11,Colombia,145632,5119,58800,81713,4856,194,2528,Americas
 2020-07-11,Comoros,317,7,296,14,3,0,24,Africa
 2020-07-11,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-11,Congo (Kinshasa),7971,189,3615,4167,66,0,102,Africa
@@ -32200,7 +32200,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-12,Chad,880,75,790,15,6,1,0,Africa
 2020-07-12,Chile,315041,6979,283902,24160,3012,98,2788,Americas
 2020-07-12,China,85117,4641,78131,2345,46,0,31,Western Pacific
-2020-07-12,Colombia,145362,5426,61186,78750,4586,224,2386,Americas
+2020-07-12,Colombia,150445,5307,61186,83952,4813,188,2386,Americas
 2020-07-12,Comoros,317,7,296,14,0,0,0,Africa
 2020-07-12,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-12,Congo (Kinshasa),8033,189,3615,4229,62,0,0,Africa
@@ -32387,7 +32387,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-13,Chad,880,75,792,13,0,0,2,Africa
 2020-07-13,Chile,317657,7024,286556,24077,2616,45,2654,Americas
 2020-07-13,China,85117,4641,78131,2345,0,0,0,Western Pacific
-2020-07-13,Colombia,150445,5634,63451,81360,5083,208,2265,Americas
+2020-07-13,Colombia,154277,5455,63451,85371,3832,148,2265,Americas
 2020-07-13,Comoros,317,7,296,14,0,0,0,Africa
 2020-07-13,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-13,Congo (Kinshasa),8075,190,3620,4265,42,1,5,Africa
@@ -32574,7 +32574,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-14,Chad,884,75,798,11,4,0,6,Africa
 2020-07-14,Chile,319493,7069,289220,23204,1836,45,2664,Americas
 2020-07-14,China,85226,4642,78190,2394,109,1,59,Western Pacific
-2020-07-14,Colombia,154277,5787,65809,82681,3832,153,2358,Americas
+2020-07-14,Colombia,159898,5625,65809,88464,5621,170,2358,Americas
 2020-07-14,Comoros,321,7,302,12,4,0,6,Africa
 2020-07-14,Congo (Brazzaville),2028,47,589,1392,0,0,0,Africa
 2020-07-14,Congo (Kinshasa),8135,190,3948,3997,60,0,328,Africa
@@ -32761,7 +32761,7 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-15,Chad,885,75,799,11,1,0,1,Africa
 2020-07-15,Chile,321205,7186,292085,21934,1712,117,2865,Americas
 2020-07-15,China,85246,4644,78228,2374,20,2,38,Western Pacific
-2020-07-15,Colombia,159898,5969,68806,85123,5621,182,2997,Americas
+2020-07-15,Colombia,165169,5814,68806,90549,5271,189,2997,Americas
 2020-07-15,Comoros,321,7,302,12,0,0,0,Africa
 2020-07-15,Congo (Brazzaville),2222,47,589,1586,194,0,0,Africa
 2020-07-15,Congo (Kinshasa),8163,192,3983,3988,28,2,35,Africa
@@ -32911,3 +32911,564 @@ Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New r
 2020-07-15,Yemen,1526,433,694,399,10,4,9,Eastern Mediterranean
 2020-07-15,Zambia,1895,42,1412,441,0,0,0,Africa
 2020-07-15,Zimbabwe,1089,20,395,674,25,0,52,Africa
+2020-07-16,Afghanistan,35070,1113,22824,11133,76,19,368,Eastern Mediterranean
+2020-07-16,Albania,3851,104,2137,1610,99,3,46,Europe
+2020-07-16,Algeria,21355,1052,15107,5196,585,12,315,Africa
+2020-07-16,Andorra,877,52,803,22,15,0,0,Europe
+2020-07-16,Angola,607,28,124,455,31,1,0,Africa
+2020-07-16,Antigua and Barbuda,74,3,57,14,0,0,0,Americas
+2020-07-16,Argentina,114783,2112,49120,63551,3637,62,1822,Americas
+2020-07-16,Armenia,33559,607,21931,11021,554,15,583,Europe
+2020-07-16,Australia,11233,116,8114,3003,423,3,79,Western Pacific
+2020-07-16,Austria,19270,711,17244,1315,116,1,69,Europe
+2020-07-16,Azerbaijan,26165,334,17256,8575,493,8,561,Europe
+2020-07-16,Bahamas,124,11,91,22,5,0,0,Americas
+2020-07-16,Bahrain,35084,121,30809,4154,524,4,489,Eastern Mediterranean
+2020-07-16,Bangladesh,196323,2496,106963,86864,2733,39,1440,South-East Asia
+2020-07-16,Barbados,104,7,90,7,0,0,0,Americas
+2020-07-16,Belarus,65623,485,56915,8223,180,5,536,Europe
+2020-07-16,Belgium,63238,9795,17253,36190,366,7,11,Europe
+2020-07-16,Belize,40,2,22,16,1,0,1,Americas
+2020-07-16,Benin,1463,28,557,878,85,2,0,Africa
+2020-07-16,Bhutan,86,0,78,8,2,0,0,South-East Asia
+2020-07-16,Bolivia,54156,1984,16979,35193,1938,42,622,Americas
+2020-07-16,Bosnia and Herzegovina,7681,240,3534,3907,270,5,199,Europe
+2020-07-16,Botswana,522,1,48,473,123,0,10,Africa
+2020-07-16,Brazil,2012151,76688,1397531,537932,45403,1322,47433,Americas
+2020-07-16,Brunei,141,3,138,0,0,0,0,Western Pacific
+2020-07-16,Bulgaria,8144,293,3927,3924,267,4,86,Europe
+2020-07-16,Burkina Faso,1038,53,882,103,0,0,0,Africa
+2020-07-16,Burma,339,6,270,63,2,0,4,South-East Asia
+2020-07-16,Burundi,303,1,207,95,34,0,0,Africa
+2020-07-16,Cabo Verde,1894,19,902,973,114,0,52,Africa
+2020-07-16,Cambodia,171,0,133,38,5,0,0,Western Pacific
+2020-07-16,Cameroon,16157,373,0,15784,984,14,0,Africa
+2020-07-16,Canada,111131,8874,0,102257,451,18,0,Americas
+2020-07-16,Central African Republic,4373,53,1265,3055,11,0,4,Africa
+2020-07-16,Chad,886,75,799,12,1,0,0,Africa
+2020-07-16,Chile,323698,7290,295301,21107,2493,104,3216,Americas
+2020-07-16,China,85314,4644,78241,2429,68,0,13,Western Pacific
+2020-07-16,Colombia,173206,6029,71736,95441,8037,215,2930,Americas
+2020-07-16,Comoros,328,7,311,10,7,0,9,Africa
+2020-07-16,Congo (Brazzaville),2358,48,589,1721,136,1,0,Africa
+2020-07-16,Congo (Kinshasa),8199,193,4248,3758,36,1,265,Africa
+2020-07-16,Costa Rica,9546,42,2673,6831,560,2,122,Americas
+2020-07-16,Cote d'Ivoire,13554,87,7363,6104,151,0,217,Africa
+2020-07-16,Croatia,4039,120,2729,1190,86,0,100,Europe
+2020-07-16,Cuba,2440,87,2285,68,2,0,8,Americas
+2020-07-16,Cyprus,1031,19,845,167,6,0,6,Europe
+2020-07-16,Czechia,13612,355,0,13257,137,0,0,Europe
+2020-07-16,Denmark,13312,610,12383,319,32,0,13,Europe
+2020-07-16,Djibouti,4993,56,4796,141,8,0,31,Eastern Mediterranean
+2020-07-16,Dominica,18,0,18,0,0,0,0,Americas
+2020-07-16,Dominican Republic,48743,941,23636,24166,1072,12,177,Americas
+2020-07-16,Ecuador,71365,5207,31260,34898,1036,49,619,Americas
+2020-07-16,Egypt,85771,4120,26691,54960,928,53,556,Eastern Mediterranean
+2020-07-16,El Salvador,10957,298,6257,4402,312,12,137,Americas
+2020-07-16,Equatorial Guinea,3071,51,842,2178,0,0,0,Africa
+2020-07-16,Eritrea,251,0,149,102,19,0,42,Africa
+2020-07-16,Estonia,2016,69,1904,43,0,0,3,Europe
+2020-07-16,Eswatini,1552,21,736,795,63,1,12,Africa
+2020-07-16,Ethiopia,8475,148,2430,5897,294,2,0,Africa
+2020-07-16,Fiji,26,0,18,8,0,0,0,Western Pacific
+2020-07-16,Finland,7293,328,6880,85,0,0,0,Europe
+2020-07-16,France,211102,30141,79161,101800,534,18,216,Europe
+2020-07-16,Gabon,6121,46,3664,2411,0,0,0,Africa
+2020-07-16,Gambia,78,3,34,41,14,0,0,Africa
+2020-07-16,Georgia,1006,15,883,108,2,0,10,Europe
+2020-07-16,Germany,201450,9087,186400,5963,560,7,400,Europe
+2020-07-16,Ghana,26125,139,22270,3716,695,0,759,Africa
+2020-07-16,Greece,3939,193,1374,2372,29,0,0,Europe
+2020-07-16,Greenland,13,0,13,0,0,0,0,Europe
+2020-07-16,Grenada,23,0,0,23,0,0,0,Americas
+2020-07-16,Guatemala,32939,1404,4807,26728,865,54,183,Americas
+2020-07-16,Guinea,6359,39,5012,1308,83,1,31,Africa
+2020-07-16,Guinea-Bissau,1902,26,773,1103,60,0,0,Africa
+2020-07-16,Guyana,315,19,156,140,2,1,0,Americas
+2020-07-16,Haiti,6948,145,3606,3197,117,2,323,Americas
+2020-07-16,Holy See,12,0,12,0,0,0,0,Europe
+2020-07-16,Honduras,30867,835,3420,26612,831,10,41,Americas
+2020-07-16,Hungary,4279,595,3156,528,16,0,30,Europe
+2020-07-16,Iceland,1914,10,1892,12,3,0,7,Europe
+2020-07-16,India,1003832,25602,635757,342473,34975,688,22989,South-East Asia
+2020-07-16,Indonesia,81668,3873,40345,37450,1574,76,1295,South-East Asia
+2020-07-16,Iran,267061,13608,230608,22845,2500,198,3047,Eastern Mediterranean
+2020-07-16,Iraq,86148,3522,54316,28310,2281,90,1695,Eastern Mediterranean
+2020-07-16,Ireland,25698,1749,23364,585,15,1,0,Europe
+2020-07-16,Israel,46059,384,20370,25305,1871,8,381,Europe
+2020-07-16,Italy,243736,35017,196246,12473,230,20,230,Europe
+2020-07-16,Jamaica,765,10,647,108,2,0,0,Americas
+2020-07-16,Japan,23510,985,18641,3884,338,1,515,Western Pacific
+2020-07-16,Jordan,1206,10,1019,177,5,0,3,Eastern Mediterranean
+2020-07-16,Kazakhstan,66895,375,40256,26264,1707,0,1190,Europe
+2020-07-16,Kenya,11673,217,3638,7818,421,8,570,Africa
+2020-07-16,Kosovo,5237,112,2462,2663,0,0,0,Europe
+2020-07-16,Kuwait,57668,402,47545,9721,791,3,648,Eastern Mediterranean
+2020-07-16,Kyrgyzstan,12498,167,3735,8596,216,2,23,Europe
+2020-07-16,Laos,19,0,0,19,0,0,0,Western Pacific
+2020-07-16,Latvia,1179,31,1022,126,1,0,0,Europe
+2020-07-16,Lebanon,2599,40,1485,1074,57,2,30,Eastern Mediterranean
+2020-07-16,Lesotho,256,3,48,205,0,0,0,Africa
+2020-07-16,Liberia,1070,68,486,516,14,17,39,Africa
+2020-07-16,Libya,1652,46,379,1227,63,3,6,Eastern Mediterranean
+2020-07-16,Liechtenstein,84,1,81,2,0,0,0,Europe
+2020-07-16,Lithuania,1902,79,1593,230,20,0,11,Europe
+2020-07-16,Luxembourg,5285,111,4275,899,163,0,28,Europe
+2020-07-16,Madagascar,6089,53,2951,3085,484,10,140,Africa
+2020-07-16,Malawi,2712,51,1073,1588,98,8,68,Africa
+2020-07-16,Malaysia,8737,122,8538,77,3,0,12,Western Pacific
+2020-07-16,Maldives,2899,15,2339,545,68,1,18,South-East Asia
+2020-07-16,Mali,2440,121,1777,542,7,0,13,Africa
+2020-07-16,Malta,674,9,661,4,0,0,0,Europe
+2020-07-16,Mauritania,5659,150,2993,2516,95,1,163,Africa
+2020-07-16,Mauritius,343,10,331,2,0,0,0,Africa
+2020-07-16,Mexico,324041,37574,257681,28786,6406,668,5313,Americas
+2020-07-16,Moldova,20264,666,13640,5958,224,7,342,Europe
+2020-07-16,Monaco,109,4,98,7,0,0,1,Europe
+2020-07-16,Mongolia,262,0,211,51,1,0,2,Western Pacific
+2020-07-16,Montenegro,1287,24,330,933,0,0,0,Europe
+2020-07-16,Morocco,16545,263,13965,2317,283,4,144,Eastern Mediterranean
+2020-07-16,Mozambique,1383,9,0,1374,53,0,0,Africa
+2020-07-16,Namibia,1032,2,31,999,72,0,0,Africa
+2020-07-16,Nepal,17344,39,11249,6056,167,0,224,South-East Asia
+2020-07-16,Netherlands,51563,6156,187,45220,101,1,1,Europe
+2020-07-16,New Zealand,1549,22,1506,21,1,0,7,Western Pacific
+2020-07-16,Nicaragua,3147,99,2282,766,0,0,0,Americas
+2020-07-16,Niger,1102,69,993,40,2,0,0,Africa
+2020-07-16,Nigeria,34854,769,14292,19793,595,9,293,Africa
+2020-07-16,North Macedonia,8623,401,4565,3657,93,8,0,Europe
+2020-07-16,Norway,9015,254,8138,623,4,1,0,Europe
+2020-07-16,Oman,62574,290,40090,22194,1327,9,1052,Eastern Mediterranean
+2020-07-16,Pakistan,257914,5426,178737,73751,0,0,0,Eastern Mediterranean
+2020-07-16,Panama,50373,1000,25842,23531,1130,18,425,Americas
+2020-07-16,Papua New Guinea,11,0,8,3,0,0,0,Western Pacific
+2020-07-16,Paraguay,3342,27,1379,1936,144,2,41,Americas
+2020-07-16,Peru,341586,12615,230994,97977,3835,198,4594,Americas
+2020-07-16,Philippines,61266,1643,21440,38183,2416,29,464,Western Pacific
+2020-07-16,Poland,39054,1605,28928,8521,333,11,436,Europe
+2020-07-16,Portugal,47765,1679,32476,13610,339,3,366,Europe
+2020-07-16,Qatar,105477,152,102168,3157,494,1,531,Eastern Mediterranean
+2020-07-16,Romania,35003,1971,22189,10843,777,19,140,Europe
+2020-07-16,Russia,751612,11920,530801,208891,6415,167,8426,Europe
+2020-07-16,Rwanda,1473,4,770,699,38,0,18,Africa
+2020-07-16,Saint Kitts and Nevis,17,0,15,2,0,0,0,Americas
+2020-07-16,Saint Lucia,23,0,19,4,1,0,0,Americas
+2020-07-16,Saint Vincent and the Grenadines,35,0,29,6,0,0,0,Americas
+2020-07-16,San Marino,699,42,656,1,0,0,0,Europe
+2020-07-16,Sao Tome and Principe,740,14,325,401,3,0,3,Africa
+2020-07-16,Saudi Arabia,243238,2370,187622,53246,2764,45,4574,Eastern Mediterranean
+2020-07-16,Senegal,8481,156,5735,2590,112,3,130,Africa
+2020-07-16,Serbia,19717,442,14417,4858,383,13,370,Europe
+2020-07-16,Seychelles,108,0,27,81,8,0,0,Africa
+2020-07-16,Sierra Leone,1678,64,1213,401,10,0,13,Africa
+2020-07-16,Singapore,47126,27,43256,3843,248,0,268,Western Pacific
+2020-07-16,Slovakia,1951,28,1514,409,24,0,7,Europe
+2020-07-16,Slovenia,1897,111,1522,264,19,0,21,Europe
+2020-07-16,Somalia,3106,93,1444,1569,23,0,19,Eastern Mediterranean
+2020-07-16,South Africa,324221,4669,165591,153961,13172,216,4898,Africa
+2020-07-16,South Korea,13672,293,12460,919,60,2,64,Western Pacific
+2020-07-16,South Sudan,2171,41,0,2130,18,0,0,Africa
+2020-07-16,Spain,258855,28416,150376,80063,1361,3,0,Europe
+2020-07-16,Sri Lanka,2687,11,2007,669,16,0,6,South-East Asia
+2020-07-16,Sudan,10527,668,5601,4258,0,0,0,Eastern Mediterranean
+2020-07-16,Suriname,904,18,581,305,67,0,8,Americas
+2020-07-16,Sweden,76877,5593,0,71284,385,21,0,Europe
+2020-07-16,Switzerland,33290,1969,29900,1421,142,1,100,Europe
+2020-07-16,Syria,477,22,0,455,19,0,0,Eastern Mediterranean
+2020-07-16,Taiwan*,451,7,440,4,0,0,0,Western Pacific
+2020-07-16,Tajikistan,6741,56,5431,1254,46,0,48,Europe
+2020-07-16,Tanzania,509,21,183,305,0,0,0,Africa
+2020-07-16,Thailand,3236,58,3095,83,4,0,3,South-East Asia
+2020-07-16,Timor-Leste,24,0,0,24,0,0,0,South-East Asia
+2020-07-16,Togo,749,15,543,191,9,0,9,Africa
+2020-07-16,Trinidad and Tobago,133,8,124,1,0,0,0,Americas
+2020-07-16,Tunisia,1327,50,1093,184,8,0,2,Eastern Mediterranean
+2020-07-16,Turkey,216873,5440,198820,12613,933,21,1087,Europe
+2020-07-16,US,3576157,138358,1090645,2347154,77255,943,14763,Americas
+2020-07-16,Uganda,1051,0,1014,37,8,0,10,Africa
+2020-07-16,Ukraine,57640,1462,29822,26356,861,18,817,Europe
+2020-07-16,United Arab Emirates,56129,335,47412,8382,281,0,994,Eastern Mediterranean
+2020-07-16,United Kingdom,294116,45204,1403,247509,647,66,17,Europe
+2020-07-16,Uruguay,1026,32,916,78,17,1,7,Americas
+2020-07-16,Uzbekistan,15066,75,8783,6208,485,4,128,Europe
+2020-07-16,Venezuela,10854,104,3255,7495,426,4,205,Americas
+2020-07-16,Vietnam,381,0,356,25,0,0,3,Western Pacific
+2020-07-16,West Bank and Gaza,7412,51,1313,6048,348,7,229,Eastern Mediterranean
+2020-07-16,Western Sahara,10,1,8,1,0,0,0,Africa
+2020-07-16,Yemen,1552,438,695,419,26,5,1,Eastern Mediterranean
+2020-07-16,Zambia,1895,42,1412,441,0,0,0,Africa
+2020-07-16,Zimbabwe,1362,23,425,914,273,3,30,Africa
+2020-07-17,Afghanistan,35229,1147,23151,10931,159,34,327,Eastern Mediterranean
+2020-07-17,Albania,3906,107,2214,1585,55,3,77,Europe
+2020-07-17,Algeria,21948,1057,15430,5461,593,5,323,Africa
+2020-07-17,Andorra,880,52,803,25,3,0,0,Europe
+2020-07-17,Angola,638,29,199,410,31,1,75,Africa
+2020-07-17,Antigua and Barbuda,76,3,57,16,2,0,0,Americas
+2020-07-17,Argentina,119301,2178,49780,67343,4518,66,660,Americas
+2020-07-17,Armenia,34001,620,22492,10889,442,13,561,Europe
+2020-07-17,Australia,11441,118,8162,3161,208,2,48,Western Pacific
+2020-07-17,Austria,19439,711,17335,1393,169,0,91,Europe
+2020-07-17,Azerbaijan,26636,341,17805,8490,471,7,549,Europe
+2020-07-17,Bahamas,129,11,91,27,5,0,0,Americas
+2020-07-17,Bahrain,35473,124,31188,4161,389,3,379,Eastern Mediterranean
+2020-07-17,Bangladesh,199357,2547,108725,88085,3034,51,1762,South-East Asia
+2020-07-17,Barbados,104,7,91,6,0,0,1,Americas
+2020-07-17,Belarus,65782,491,57370,7921,159,6,455,Europe
+2020-07-17,Belgium,63499,9800,17289,36410,261,5,36,Europe
+2020-07-17,Belize,40,2,22,16,0,0,0,Americas
+2020-07-17,Benin,1602,31,782,789,139,3,225,Africa
+2020-07-17,Bhutan,87,0,78,9,1,0,0,South-East Asia
+2020-07-17,Bolivia,56102,2049,17882,36171,1946,65,903,Americas
+2020-07-17,Bosnia and Herzegovina,7908,245,3612,4051,227,5,78,Europe
+2020-07-17,Botswana,522,1,48,473,0,0,0,Africa
+2020-07-17,Brazil,2046328,77851,1428520,539957,34177,1163,30989,Americas
+2020-07-17,Brunei,141,3,138,0,0,0,0,Western Pacific
+2020-07-17,Bulgaria,8442,297,4033,4112,298,4,106,Europe
+2020-07-17,Burkina Faso,1045,53,887,105,7,0,5,Africa
+2020-07-17,Burma,339,6,271,62,0,0,1,South-East Asia
+2020-07-17,Burundi,310,1,207,102,7,0,0,Africa
+2020-07-17,Cabo Verde,1939,19,902,1018,45,0,0,Africa
+2020-07-17,Cambodia,171,0,133,38,0,0,0,Western Pacific
+2020-07-17,Cameroon,16157,373,0,15784,0,0,0,Africa
+2020-07-17,Canada,111546,8883,0,102663,415,9,0,Americas
+2020-07-17,Central African Republic,4389,53,1288,3048,16,0,23,Africa
+2020-07-17,Chad,887,75,800,12,1,0,1,Africa
+2020-07-17,Chile,326439,8347,296814,21278,2741,1057,1513,Americas
+2020-07-17,China,85314,4644,78241,2429,0,0,0,Western Pacific
+2020-07-17,Colombia,182140,6288,80637,95215,8934,259,8901,Americas
+2020-07-17,Comoros,328,7,311,10,0,0,0,Africa
+2020-07-17,Congo (Brazzaville),2633,49,626,1958,275,1,37,Africa
+2020-07-17,Congo (Kinshasa),8249,193,4248,3808,50,0,0,Africa
+2020-07-17,Costa Rica,9969,47,2818,7104,423,5,145,Americas
+2020-07-17,Cote d'Ivoire,13696,87,7607,6002,142,0,244,Africa
+2020-07-17,Croatia,4137,120,2825,1192,98,0,96,Europe
+2020-07-17,Cuba,2444,87,2300,57,4,0,15,Americas
+2020-07-17,Cyprus,1033,19,845,169,2,0,0,Europe
+2020-07-17,Czechia,13742,358,0,13384,130,3,0,Europe
+2020-07-17,Denmark,13361,611,12397,353,49,1,14,Europe
+2020-07-17,Djibouti,5003,56,4809,138,10,0,13,Eastern Mediterranean
+2020-07-17,Dominica,18,0,18,0,0,0,0,Americas
+2020-07-17,Dominican Republic,50113,942,24423,24748,1370,1,787,Americas
+2020-07-17,Ecuador,72444,5250,31404,35790,1079,43,144,Americas
+2020-07-17,Egypt,86474,4188,27302,54984,703,68,611,Eastern Mediterranean
+2020-07-17,El Salvador,11207,309,6422,4476,250,11,165,Americas
+2020-07-17,Equatorial Guinea,3071,51,842,2178,0,0,0,Africa
+2020-07-17,Eritrea,251,0,155,96,0,0,6,Africa
+2020-07-17,Estonia,2020,69,1910,41,4,0,6,Europe
+2020-07-17,Eswatini,1619,21,769,829,67,0,33,Africa
+2020-07-17,Ethiopia,8803,150,2430,6223,328,2,0,Africa
+2020-07-17,Fiji,26,0,18,8,0,0,0,Western Pacific
+2020-07-17,Finland,7301,328,6880,93,8,0,0,Europe
+2020-07-17,France,211943,30155,79371,102417,841,14,210,Europe
+2020-07-17,Gabon,6315,46,3865,2404,194,0,201,Africa
+2020-07-17,Gambia,78,3,34,41,0,0,0,Africa
+2020-07-17,Georgia,1010,15,885,110,4,0,2,Europe
+2020-07-17,Germany,202045,9088,186900,6057,595,1,500,Europe
+2020-07-17,Ghana,26572,144,22915,3513,447,5,645,Africa
+2020-07-17,Greece,3964,194,1374,2396,25,1,0,Europe
+2020-07-17,Greenland,13,0,13,0,0,0,0,Europe
+2020-07-17,Grenada,23,0,0,23,0,0,0,Americas
+2020-07-17,Guatemala,33809,1443,4989,27377,870,39,182,Americas
+2020-07-17,Guinea,6430,39,5233,1158,71,0,221,Africa
+2020-07-17,Guinea-Bissau,1927,26,773,1128,25,0,0,Africa
+2020-07-17,Guyana,320,19,156,145,5,0,0,Americas
+2020-07-17,Haiti,6975,146,3738,3091,27,1,132,Americas
+2020-07-17,Holy See,12,0,12,0,0,0,0,Europe
+2020-07-17,Honduras,31745,857,3565,27323,878,22,145,Americas
+2020-07-17,Hungary,4293,595,3220,478,14,0,64,Europe
+2020-07-17,Iceland,1916,10,1895,11,2,0,3,Europe
+2020-07-17,India,1039084,26273,653751,359060,35252,671,17994,South-East Asia
+2020-07-17,Indonesia,83130,3957,41834,37339,1462,84,1489,South-East Asia
+2020-07-17,Iran,269440,13791,232873,22776,2379,183,2265,Eastern Mediterranean
+2020-07-17,Iraq,88171,3616,56495,28060,2023,94,2179,Eastern Mediterranean
+2020-07-17,Ireland,25730,1752,23364,614,32,3,0,Europe
+2020-07-17,Israel,47459,392,20744,26323,1400,8,374,Europe
+2020-07-17,Italy,243967,35028,196483,12456,231,11,237,Europe
+2020-07-17,Jamaica,768,10,678,80,3,0,31,Americas
+2020-07-17,Japan,24104,985,18944,4175,594,0,303,Western Pacific
+2020-07-17,Jordan,1209,10,1021,178,3,0,2,Eastern Mediterranean
+2020-07-17,Kazakhstan,68703,375,40256,28072,1808,0,0,Europe
+2020-07-17,Kenya,12062,222,3983,7857,389,5,345,Africa
+2020-07-17,Kosovo,5472,124,2640,2708,235,12,178,Europe
+2020-07-17,Kuwait,58221,404,48381,9436,553,2,836,Eastern Mediterranean
+2020-07-17,Kyrgyzstan,13101,173,3821,9107,603,6,86,Europe
+2020-07-17,Laos,19,0,0,19,0,0,0,Western Pacific
+2020-07-17,Latvia,1185,31,1022,132,6,0,0,Europe
+2020-07-17,Lebanon,2700,40,1485,1175,101,0,0,Eastern Mediterranean
+2020-07-17,Lesotho,311,6,69,236,55,3,21,Africa
+2020-07-17,Liberia,1085,69,496,520,15,1,10,Africa
+2020-07-17,Libya,1704,47,380,1277,52,1,1,Eastern Mediterranean
+2020-07-17,Liechtenstein,85,1,81,3,1,0,0,Europe
+2020-07-17,Lithuania,1908,79,1595,234,6,0,2,Europe
+2020-07-17,Luxembourg,5409,111,4333,965,124,0,58,Europe
+2020-07-17,Madagascar,6467,54,3108,3305,378,1,157,Africa
+2020-07-17,Malawi,2805,55,1107,1643,93,4,34,Africa
+2020-07-17,Malaysia,8755,122,8541,92,18,0,3,Western Pacific
+2020-07-17,Maldives,2913,15,2340,558,14,0,1,South-East Asia
+2020-07-17,Mali,2467,121,1791,555,27,0,14,Africa
+2020-07-17,Malta,674,9,662,3,0,0,1,Europe
+2020-07-17,Mauritania,5710,151,3153,2406,51,1,160,Africa
+2020-07-17,Mauritius,343,10,331,2,0,0,0,Africa
+2020-07-17,Mexico,331298,38310,264202,28786,7257,736,6521,Americas
+2020-07-17,Moldova,20494,675,13913,5906,230,9,273,Europe
+2020-07-17,Monaco,109,4,98,7,0,0,0,Europe
+2020-07-17,Mongolia,287,0,211,76,25,0,0,Western Pacific
+2020-07-17,Montenegro,1965,26,357,1582,678,2,27,Europe
+2020-07-17,Morocco,16726,264,14360,2102,181,1,395,Eastern Mediterranean
+2020-07-17,Mozambique,1402,9,0,1393,19,0,0,Africa
+2020-07-17,Namibia,1078,2,32,1044,46,0,1,Africa
+2020-07-17,Nepal,17445,40,11534,5871,101,1,285,South-East Asia
+2020-07-17,Netherlands,51672,6157,187,45328,109,1,0,Europe
+2020-07-17,New Zealand,1550,22,1506,22,1,0,0,Western Pacific
+2020-07-17,Nicaragua,3147,99,2282,766,0,0,0,Americas
+2020-07-17,Niger,1102,69,1013,20,0,0,20,Africa
+2020-07-17,Nigeria,35454,772,14633,20049,600,3,341,Africa
+2020-07-17,North Macedonia,8786,406,4676,3704,163,5,111,Europe
+2020-07-17,Norway,9025,255,8138,632,10,1,0,Europe
+2020-07-17,Oman,64193,298,41450,22445,1619,8,1360,Eastern Mediterranean
+2020-07-17,Pakistan,261917,5522,198509,57886,4003,96,19772,Eastern Mediterranean
+2020-07-17,Panama,51408,1038,26520,23850,1035,38,678,Americas
+2020-07-17,Papua New Guinea,15,0,8,7,4,0,0,Western Pacific
+2020-07-17,Paraguay,3457,28,1481,1948,115,1,102,Americas
+2020-07-17,Peru,345537,12799,233982,98756,3951,184,2988,Americas
+2020-07-17,Philippines,63001,1660,21748,39593,1735,17,308,Western Pacific
+2020-07-17,Poland,39407,1612,29505,8290,353,7,577,Europe
+2020-07-17,Portugal,48077,1682,32790,13605,312,3,314,Europe
+2020-07-17,Qatar,105898,153,102597,3148,421,1,429,Eastern Mediterranean
+2020-07-17,Romania,35802,1988,22312,11502,799,17,123,Europe
+2020-07-17,Russia,758001,12106,538467,207428,6389,186,7666,Europe
+2020-07-17,Rwanda,1485,4,811,670,12,0,41,Africa
+2020-07-17,Saint Kitts and Nevis,17,0,15,2,0,0,0,Americas
+2020-07-17,Saint Lucia,23,0,19,4,0,0,0,Americas
+2020-07-17,Saint Vincent and the Grenadines,35,0,29,6,0,0,0,Americas
+2020-07-17,San Marino,699,42,656,1,0,0,0,Europe
+2020-07-17,Sao Tome and Principe,741,14,325,402,1,0,0,Africa
+2020-07-17,Saudi Arabia,245851,2407,191161,52283,2613,37,3539,Eastern Mediterranean
+2020-07-17,Senegal,8544,160,5809,2575,63,4,74,Africa
+2020-07-17,Serbia,20109,452,14799,4858,392,10,382,Europe
+2020-07-17,Seychelles,108,0,27,81,0,0,0,Africa
+2020-07-17,Sierra Leone,1688,65,1219,404,10,1,6,Africa
+2020-07-17,Singapore,47453,27,43577,3849,327,0,321,Western Pacific
+2020-07-17,Slovakia,1965,28,1523,414,14,0,9,Europe
+2020-07-17,Slovenia,1916,111,1522,283,19,0,0,Europe
+2020-07-17,Somalia,3106,93,1444,1569,0,0,0,Eastern Mediterranean
+2020-07-17,South Africa,337594,4804,178183,154607,13373,135,12592,Africa
+2020-07-17,South Korea,13711,294,12519,898,39,1,59,Western Pacific
+2020-07-17,South Sudan,2191,43,0,2148,20,2,0,Africa
+2020-07-17,Spain,260255,28420,150376,81459,1400,4,0,Europe
+2020-07-17,Sri Lanka,2697,11,2012,674,10,0,5,South-East Asia
+2020-07-17,Sudan,10527,668,5601,4258,0,0,0,Eastern Mediterranean
+2020-07-17,Suriname,943,19,600,324,39,1,19,Americas
+2020-07-17,Sweden,77281,5619,0,71662,404,26,0,Europe
+2020-07-17,Switzerland,33382,1969,29900,1513,92,0,0,Europe
+2020-07-17,Syria,496,25,0,471,19,3,0,Eastern Mediterranean
+2020-07-17,Taiwan*,451,7,440,4,0,0,0,Western Pacific
+2020-07-17,Tajikistan,6786,56,5483,1247,45,0,52,Europe
+2020-07-17,Tanzania,509,21,183,305,0,0,0,Africa
+2020-07-17,Thailand,3239,58,3096,85,3,0,1,South-East Asia
+2020-07-17,Timor-Leste,24,0,0,24,0,0,0,South-East Asia
+2020-07-17,Togo,766,15,546,205,17,0,3,Africa
+2020-07-17,Trinidad and Tobago,136,8,124,4,3,0,0,Americas
+2020-07-17,Tunisia,1336,50,1095,191,9,0,2,Eastern Mediterranean
+2020-07-17,Turkey,217799,5458,199834,12507,926,18,1014,Europe
+2020-07-17,US,3647715,139266,1107204,2401245,71558,908,16559,Americas
+2020-07-17,Uganda,1056,0,1023,33,5,0,9,Africa
+2020-07-17,Ukraine,58466,1473,30675,26318,826,11,853,Europe
+2020-07-17,United Arab Emirates,56422,337,48448,7637,293,2,1036,Eastern Mediterranean
+2020-07-17,United Kingdom,294803,45318,1403,248082,687,114,0,Europe
+2020-07-17,Uruguay,1037,32,917,88,11,0,1,Americas
+2020-07-17,Uzbekistan,15607,79,9003,6525,541,4,220,Europe
+2020-07-17,Venezuela,11191,107,3852,7232,337,3,597,Americas
+2020-07-17,Vietnam,382,0,356,26,1,0,0,Western Pacific
+2020-07-17,West Bank and Gaza,7764,53,1492,6219,352,2,179,Eastern Mediterranean
+2020-07-17,Western Sahara,10,1,8,1,0,0,0,Africa
+2020-07-17,Yemen,1576,440,695,441,24,2,0,Eastern Mediterranean
+2020-07-17,Zambia,2810,109,1450,1251,915,67,38,Africa
+2020-07-17,Zimbabwe,1420,24,438,958,58,1,13,Africa
+2020-07-18,Afghanistan,35301,1164,23273,10864,72,17,122,Eastern Mediterranean
+2020-07-18,Albania,4008,111,2264,1633,102,4,50,Europe
+2020-07-18,Algeria,22549,1068,15744,5737,601,11,314,Africa
+2020-07-18,Andorra,880,52,803,25,0,0,0,Europe
+2020-07-18,Angola,687,29,210,448,49,0,11,Africa
+2020-07-18,Antigua and Barbuda,76,3,57,16,0,0,0,Americas
+2020-07-18,Argentina,122524,2220,52607,67697,3223,42,2827,Americas
+2020-07-18,Armenia,34462,631,23123,10708,461,11,631,Europe
+2020-07-18,Australia,11802,122,8274,3406,361,4,112,Western Pacific
+2020-07-18,Austria,19573,711,17501,1361,134,0,166,Europe
+2020-07-18,Azerbaijan,27133,349,18450,8334,497,8,645,Europe
+2020-07-18,Bahamas,138,11,91,36,9,0,0,Americas
+2020-07-18,Bahrain,36004,124,31765,4115,531,0,577,Eastern Mediterranean
+2020-07-18,Bangladesh,202066,2581,110098,89387,2709,34,1373,South-East Asia
+2020-07-18,Barbados,104,7,91,6,0,0,0,Americas
+2020-07-18,Belarus,65953,495,57856,7602,171,4,486,Europe
+2020-07-18,Belgium,63706,9800,17289,36617,207,0,0,Europe
+2020-07-18,Belize,40,2,22,16,0,0,0,Americas
+2020-07-18,Benin,1602,31,782,789,0,0,0,Africa
+2020-07-18,Bhutan,87,0,78,9,0,0,0,South-East Asia
+2020-07-18,Bolivia,58138,2106,18200,37832,2036,57,318,Americas
+2020-07-18,Bosnia and Herzegovina,8161,246,3648,4267,253,1,36,Europe
+2020-07-18,Botswana,522,1,48,473,0,0,0,Africa
+2020-07-18,Brazil,2074860,78772,1447408,548680,28532,921,18888,Americas
+2020-07-18,Brunei,141,3,138,0,0,0,0,Western Pacific
+2020-07-18,Bulgaria,8638,299,4081,4258,196,2,48,Europe
+2020-07-18,Burkina Faso,1047,53,887,107,2,0,0,Africa
+2020-07-18,Burma,340,6,273,61,1,0,2,South-East Asia
+2020-07-18,Burundi,310,1,207,102,0,0,0,Africa
+2020-07-18,Cabo Verde,2014,21,913,1080,75,2,11,Africa
+2020-07-18,Cambodia,171,0,133,38,0,0,0,Western Pacific
+2020-07-18,Cameroon,16157,373,0,15784,0,0,0,Africa
+2020-07-18,Canada,111862,8891,0,102971,316,8,0,Americas
+2020-07-18,Central African Republic,4485,55,1348,3082,96,2,60,Africa
+2020-07-18,Chad,889,75,800,14,2,0,0,Africa
+2020-07-18,Chile,328846,8445,299449,20952,2407,98,2635,Americas
+2020-07-18,China,85314,4644,78241,2429,0,0,0,Western Pacific
+2020-07-18,Colombia,190700,6516,85836,98348,8560,228,5199,Americas
+2020-07-18,Comoros,328,7,311,10,0,0,0,Africa
+2020-07-18,Congo (Brazzaville),2633,49,626,1958,0,0,0,Africa
+2020-07-18,Congo (Kinshasa),8324,193,4313,3818,75,0,65,Africa
+2020-07-18,Costa Rica,10551,54,2902,7595,582,7,84,Americas
+2020-07-18,Cote d'Ivoire,13912,91,8000,5821,216,4,393,Africa
+2020-07-18,Croatia,4253,120,2929,1204,116,0,104,Europe
+2020-07-18,Cuba,2445,87,2304,54,1,0,4,Americas
+2020-07-18,Cyprus,1037,19,845,173,4,0,0,Europe
+2020-07-18,Czechia,13855,358,0,13497,113,0,0,Europe
+2020-07-18,Denmark,13361,611,12397,353,0,0,0,Europe
+2020-07-18,Djibouti,5003,56,4809,138,0,0,0,Eastern Mediterranean
+2020-07-18,Dominica,18,0,18,0,0,0,0,Americas
+2020-07-18,Dominican Republic,51519,971,24607,25941,1406,29,184,Americas
+2020-07-18,Ecuador,73382,5282,31757,36343,938,32,353,Americas
+2020-07-18,Egypt,87172,4251,27868,55053,698,63,566,Eastern Mediterranean
+2020-07-18,El Salvador,11508,324,6560,4624,301,15,138,Americas
+2020-07-18,Equatorial Guinea,3071,51,842,2178,0,0,0,Africa
+2020-07-18,Eritrea,251,0,155,96,0,0,0,Africa
+2020-07-18,Estonia,2021,69,1912,40,1,0,2,Europe
+2020-07-18,Eswatini,1729,21,788,920,110,0,19,Africa
+2020-07-18,Ethiopia,9147,163,2430,6554,344,13,0,Africa
+2020-07-18,Fiji,26,0,18,8,0,0,0,Western Pacific
+2020-07-18,Finland,7318,328,6880,110,17,0,0,Europe
+2020-07-18,France,211943,30155,79371,102417,0,0,0,Europe
+2020-07-18,Gabon,6315,46,3865,2404,0,0,0,Africa
+2020-07-18,Gambia,93,4,49,40,15,1,15,Africa
+2020-07-18,Georgia,1018,15,895,108,8,0,10,Europe
+2020-07-18,Germany,202426,9091,187200,6135,381,3,300,Europe
+2020-07-18,Ghana,27060,145,23044,3871,488,1,129,Africa
+2020-07-18,Greece,3983,194,1374,2415,19,0,0,Europe
+2020-07-18,Greenland,13,0,13,0,0,0,0,Europe
+2020-07-18,Grenada,23,0,0,23,0,0,0,Americas
+2020-07-18,Guatemala,33809,1443,4989,27377,0,0,0,Americas
+2020-07-18,Guinea,6491,39,5257,1195,61,0,24,Africa
+2020-07-18,Guinea-Bissau,1949,26,803,1120,22,0,30,Africa
+2020-07-18,Guyana,327,19,163,145,7,0,7,Americas
+2020-07-18,Haiti,7053,146,3877,3030,78,0,139,Americas
+2020-07-18,Holy See,12,0,12,0,0,0,0,Europe
+2020-07-18,Honduras,32793,891,3661,28241,1048,34,96,Americas
+2020-07-18,Hungary,4315,596,3222,497,22,1,2,Europe
+2020-07-18,Iceland,1922,10,1902,10,6,0,7,Europe
+2020-07-18,India,1077781,26816,677423,373542,38697,543,23672,South-East Asia
+2020-07-18,Indonesia,84882,4016,43268,37598,1752,59,1434,South-East Asia
+2020-07-18,Iran,271606,13979,235300,22327,2166,188,2427,Eastern Mediterranean
+2020-07-18,Iraq,90220,3691,58492,28037,2049,75,1997,Eastern Mediterranean
+2020-07-18,Ireland,25750,1753,23364,633,20,1,0,Europe
+2020-07-18,Israel,49365,401,21348,27616,1906,9,604,Europe
+2020-07-18,Italy,244216,35042,196806,12368,249,14,323,Europe
+2020-07-18,Jamaica,774,10,679,85,6,0,1,Americas
+2020-07-18,Japan,24946,986,19211,4749,842,1,267,Western Pacific
+2020-07-18,Jordan,1214,11,1022,181,5,1,1,Eastern Mediterranean
+2020-07-18,Kazakhstan,68703,375,40256,28072,0,0,0,Europe
+2020-07-18,Kenya,12750,225,4440,8085,688,3,457,Africa
+2020-07-18,Kosovo,5617,130,2811,2676,145,6,171,Europe
+2020-07-18,Kuwait,58904,407,49020,9477,683,3,639,Eastern Mediterranean
+2020-07-18,Kyrgyzstan,24606,900,10704,13002,11505,727,6883,Europe
+2020-07-18,Laos,19,0,0,19,0,0,0,Western Pacific
+2020-07-18,Latvia,1189,31,1022,136,4,0,0,Europe
+2020-07-18,Lebanon,2775,40,1485,1250,75,0,0,Eastern Mediterranean
+2020-07-18,Lesotho,359,6,69,284,48,0,0,Africa
+2020-07-18,Liberia,1088,70,519,499,3,1,23,Africa
+2020-07-18,Libya,1791,48,385,1358,87,1,5,Eastern Mediterranean
+2020-07-18,Liechtenstein,86,1,81,4,1,0,0,Europe
+2020-07-18,Lithuania,1915,80,1600,235,7,1,5,Europe
+2020-07-18,Luxembourg,5483,111,4333,1039,74,0,0,Europe
+2020-07-18,Madagascar,6849,55,3339,3455,382,1,231,Africa
+2020-07-18,Malawi,2810,55,1111,1644,5,0,4,Africa
+2020-07-18,Malaysia,8764,122,8546,96,9,0,5,Western Pacific
+2020-07-18,Maldives,2930,15,2354,561,17,0,14,South-East Asia
+2020-07-18,Mali,2472,121,1809,542,5,0,18,Africa
+2020-07-18,Malta,675,9,662,4,1,0,0,Europe
+2020-07-18,Mauritania,5813,153,3279,2381,103,2,126,Africa
+2020-07-18,Mauritius,343,10,331,2,0,0,0,Africa
+2020-07-18,Mexico,338913,38888,271239,28786,7615,578,7037,Americas
+2020-07-18,Moldova,20794,680,14183,5931,300,5,270,Europe
+2020-07-18,Monaco,109,4,98,7,0,0,0,Europe
+2020-07-18,Mongolia,287,0,213,74,0,0,2,Western Pacific
+2020-07-18,Montenegro,2072,30,378,1664,107,4,21,Europe
+2020-07-18,Morocco,17015,269,14620,2126,289,5,260,Eastern Mediterranean
+2020-07-18,Mozambique,1435,10,0,1425,33,1,0,Africa
+2020-07-18,Namibia,1203,2,32,1169,125,0,0,Africa
+2020-07-18,Nepal,17502,40,11637,5825,57,0,103,South-East Asia
+2020-07-18,Netherlands,51799,6155,187,45457,127,-2,0,Europe
+2020-07-18,New Zealand,1553,22,1506,25,3,0,0,Western Pacific
+2020-07-18,Nicaragua,3147,99,2282,766,0,0,0,Americas
+2020-07-18,Niger,1104,69,1014,21,2,0,1,Africa
+2020-07-18,Nigeria,36107,778,14938,20391,653,6,305,Africa
+2020-07-18,North Macedonia,9026,414,4727,3885,240,8,51,Europe
+2020-07-18,Norway,9028,255,8138,635,3,0,0,Europe
+2020-07-18,Oman,65504,308,42772,22424,1311,10,1322,Eastern Mediterranean
+2020-07-18,Pakistan,263496,5568,204276,53652,1579,46,5767,Eastern Mediterranean
+2020-07-18,Panama,52261,1071,27494,23696,853,33,974,Americas
+2020-07-18,Papua New Guinea,16,0,8,8,1,0,0,Western Pacific
+2020-07-18,Paraguay,3629,29,1643,1957,172,1,162,Americas
+2020-07-18,Peru,349500,12998,238086,98416,3963,199,4104,Americas
+2020-07-18,Philippines,65304,1773,22067,41464,2303,113,319,Western Pacific
+2020-07-18,Poland,39746,1618,29924,8204,339,6,419,Europe
+2020-07-18,Portugal,48390,1684,33153,13553,313,2,363,Europe
+2020-07-18,Qatar,106308,154,103023,3131,410,1,426,Eastern Mediterranean
+2020-07-18,Romania,36691,2009,22488,12194,889,21,176,Europe
+2020-07-18,Russia,764215,12228,545909,206078,6214,122,7442,Europe
+2020-07-18,Rwanda,1539,5,819,715,54,1,8,Africa
+2020-07-18,Saint Kitts and Nevis,17,0,15,2,0,0,0,Americas
+2020-07-18,Saint Lucia,23,0,19,4,0,0,0,Americas
+2020-07-18,Saint Vincent and the Grenadines,38,0,29,9,3,0,0,Americas
+2020-07-18,San Marino,699,42,656,1,0,0,0,Europe
+2020-07-18,Sao Tome and Principe,743,14,337,392,2,0,12,Africa
+2020-07-18,Saudi Arabia,248416,2447,194218,51751,2565,40,3057,Eastern Mediterranean
+2020-07-18,Senegal,8669,163,5859,2647,125,3,50,Africa
+2020-07-18,Serbia,20498,461,15179,4858,389,9,380,Europe
+2020-07-18,Seychelles,108,0,27,81,0,0,0,Africa
+2020-07-18,Sierra Leone,1701,65,1237,399,13,0,18,Africa
+2020-07-18,Singapore,47655,27,43833,3795,202,0,256,Western Pacific
+2020-07-18,Slovakia,1976,28,1523,425,11,0,0,Europe
+2020-07-18,Slovenia,1940,111,1568,261,24,0,46,Europe
+2020-07-18,Somalia,3111,93,1452,1566,5,0,8,Eastern Mediterranean
+2020-07-18,South Africa,350879,4948,182230,163701,13285,144,4047,Africa
+2020-07-18,South Korea,13745,295,12556,894,34,1,37,Western Pacific
+2020-07-18,South Sudan,2191,43,0,2148,0,0,0,Africa
+2020-07-18,Spain,260255,28420,150376,81459,0,0,0,Europe
+2020-07-18,Sri Lanka,2703,11,2023,669,6,0,11,South-East Asia
+2020-07-18,Sudan,10682,673,5637,4372,155,5,36,Eastern Mediterranean
+2020-07-18,Suriname,1001,20,610,371,58,1,10,Americas
+2020-07-18,Sweden,77281,5619,0,71662,0,0,0,Europe
+2020-07-18,Switzerland,33492,1969,29900,1623,110,0,0,Europe
+2020-07-18,Syria,496,25,0,471,0,0,0,Eastern Mediterranean
+2020-07-18,Taiwan*,451,7,440,4,0,0,0,Western Pacific
+2020-07-18,Tajikistan,6834,57,5529,1248,48,1,46,Europe
+2020-07-18,Tanzania,509,21,183,305,0,0,0,Africa
+2020-07-18,Thailand,3246,58,3096,92,7,0,0,South-East Asia
+2020-07-18,Timor-Leste,24,0,0,24,0,0,0,South-East Asia
+2020-07-18,Togo,774,15,548,211,8,0,2,Africa
+2020-07-18,Trinidad and Tobago,137,8,124,5,1,0,0,Americas
+2020-07-18,Tunisia,1348,50,1095,203,12,0,0,Eastern Mediterranean
+2020-07-18,Turkey,218717,5475,201013,12229,918,17,1179,Europe
+2020-07-18,US,3711413,140119,1122720,2448574,63698,853,15516,Americas
+2020-07-18,Uganda,1062,0,1023,39,6,0,0,Africa
+2020-07-18,Ukraine,59333,1496,31479,26358,867,23,804,Europe
+2020-07-18,United Arab Emirates,56711,338,48917,7456,289,1,469,Eastern Mediterranean
+2020-07-18,United Kingdom,295632,45358,1413,248861,829,40,10,Europe
+2020-07-18,Uruguay,1044,33,921,90,7,1,4,Americas
+2020-07-18,Uzbekistan,16186,83,9127,6976,579,4,124,Europe
+2020-07-18,Venezuela,11483,110,3972,7401,292,3,120,Americas
+2020-07-18,Vietnam,382,0,357,25,0,0,1,Western Pacific
+2020-07-18,West Bank and Gaza,8204,59,1596,6549,440,6,104,Eastern Mediterranean
+2020-07-18,Western Sahara,10,1,8,1,0,0,0,Africa
+2020-07-18,Yemen,1581,443,701,437,5,3,6,Eastern Mediterranean
+2020-07-18,Zambia,2980,120,1462,1398,170,11,12,Africa
+2020-07-18,Zimbabwe,1478,25,439,1014,58,1,1,Africa
